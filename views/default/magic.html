@@ -1,0 +1,67 @@
+<!--<!DOCTYPE html>
+<HTML LANG="es">
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE>GeekStuff</TITLE>	
+	<META NAME="AUTHOR" CONTENT="Cristian Escudero">	
+	<SCRIPT TYPE="text/javascript" SRC="jquery-1.7.1.min.js"></SCRIPT>
+	<SCRIPT TYPE="text/javascript" SRC="geek-magic-item.js"></SCRIPT>
+	
+	<LINK REL="stylesheet" HREF="style.css" TYPE="text/css" MEDIA="screen"></LINK>
+</HEAD>
+<BODY>-->
+{{extend 'layout.html'}}
+<SCRIPT TYPE="text/javascript" SRC="{{=URL('static', 'js/geek-magic-item.js')}}"></SCRIPT>
+
+		<input id="input" value="5800"></input>		
+		<input id="total_gold" size=10 value="" disabled></input>		
+		<button type='button' onclick="mi_get_treasure()">GEN</button>
+		<button type='button' onclick="mi_big_clear()">CLEAR</button>		
+		<button type='button' onclick="mi_pass_info()">SAVE</button>
+		<button type='button' onclick="mi_call(true)">ORDER</button>		
+		<input id="desc" type="checkbox" checked="" onchange="mi_call(true)">desc</input>
+		<select id="select" onchange="mi_call(true)">
+			<option select="selected" value="lvl">Level</option>
+			<option value="name">Name</option>			
+		</select>		
+		<input id="autosave" type="checkbox" checked="checked">autosave</input>
+		<input id="format" size=50 value="{name} [item lvl: {level}, reference: {page}]"></input>
+		<br />
+				
+		<!--
+		<textarea id="textarea2" cols=100 rows=20></textarea>
+		-->
+		
+		<table border="0" id="tabla" style="position:absolute">			
+			<tr>
+				<th>Object Level</th>
+				<th>Name</th>
+				<th>Page (Manual)</th>
+				<th>Action</th>
+			</tr>
+		</table>
+		
+		<textarea id="textarea" cols=70 rows=20 style="position:absolute; right:20px"></textarea>
+		
+		<SCRIPT type="text/javascript">
+		/// For the languages pack
+		lang = {
+			"change" : "change",
+			"delete" : "delete"
+		}		
+		
+		/// Load the json with the list of magic items
+		function load_json() {
+			$.getJSON("{{=URL('static', 'json/magic-items.json')}}", function(data) {
+				$json_items = data;							
+			});
+		}
+
+		/// When you're ready daddy
+		$(document).ready(function(){
+			load_json();
+		});
+		</SCRIPT>
+<!--</BODY>
+</HTML>
+-->

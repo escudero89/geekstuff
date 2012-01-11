@@ -1,0 +1,8239 @@
+{
+    "0": [
+        [
+            "1",
+            "Acid",
+            "P128"
+        ],
+        [
+            "3",
+            "Lantern, bullseye",
+            "P126"
+        ],
+        [
+            "4",
+            "Scroll of caltrops [SC] (A)",
+            "S42"
+        ],
+        [
+            "5",
+            "Scroll of create water (D)",
+            "P215"
+        ],
+        [
+            "6",
+            "Scroll of dancing lights (A)",
+            "P216"
+        ],
+        [
+            "7",
+            "Scroll of dawn [SC] (D)",
+            "S59"
+        ],
+        [
+            "8",
+            "Scroll of detect magic (A or D)",
+            "P219"
+        ],
+        [
+            "9",
+            "Scroll of light (A or D)",
+            "P248"
+        ],
+        [
+            "10",
+            "Scroll of message (A)",
+            "P253"
+        ],
+        [
+            "11",
+            "Scroll of purify food and drink (D)",
+            "P267"
+        ],
+        [
+            "13",
+            "Alchemist's fire",
+            "P128"
+        ],
+        [
+            "16",
+            "Rope, silk (100 ft.)",
+            "P127"
+        ],
+        [
+            "18",
+            "Smokesticks",
+            "P128"
+        ],
+        [
+            "20",
+            "Holy symbol, silver",
+            "P130"
+        ],
+        [
+            "22",
+            "Holy water",
+            "P128"
+        ],
+        [
+            "23",
+            "Scroll of aspect of the wolf [SC] (D)",
+            "S16"
+        ],
+        [
+            "24",
+            "Scroll of benign transposition [SC] (A)",
+            "S27"
+        ],
+        [
+            "25",
+            "Scroll of blessed aim [SC] (D)",
+            "S31"
+        ],
+        [
+            "26",
+            "Scroll of comprehend languages (A or D)",
+            "P212"
+        ],
+        [
+            "28",
+            "Scroll of cure light wounds (D)",
+            "P215"
+        ],
+        [
+            "29",
+            "Scroll of disguise self (A)",
+            "P222"
+        ],
+        [
+            "30",
+            "Scroll of endure elements (A or D)",
+            "P226"
+        ],
+        [
+            "31",
+            "Scroll of hail of stone [SC] (A)",
+            "S108"
+        ],
+        [
+            "32",
+            "Scroll of mount (A)",
+            "P256"
+        ],
+        [
+            "33",
+            "Scroll of protection from chaos (A or D)",
+            "P266"
+        ],
+        [
+            "34",
+            "Scroll of protection from evil (A or D)",
+            "P266"
+        ],
+        [
+            "35",
+            "Scroll of protection from good (A or D)",
+            "P266"
+        ],
+        [
+            "36",
+            "Scroll of protection from law (A or D)",
+            "P266"
+        ],
+        [
+            "37",
+            "Scroll of remove fear (A or D)",
+            "P271"
+        ],
+        [
+            "38",
+            "Scroll of resurgence [SC] (D)",
+            "S174"
+        ],
+        [
+            "39",
+            "Scroll of sanctuary (D)",
+            "P274"
+        ],
+        [
+            "40",
+            "Scroll of sign [SC] (D)",
+            "S189"
+        ],
+        [
+            "41",
+            "Scroll of snake's swiftness [SC] (D)",
+            "S193"
+        ],
+        [
+            "42",
+            "Scroll of speak with animals (D)",
+            "P281"
+        ],
+        [
+            "43",
+            "Scroll of lesser vigor [SC] (D)",
+            "S229"
+        ],
+        [
+            "45",
+            "Thunderstone",
+            "P129"
+        ],
+        [
+            "47",
+            "Antitoxin",
+            "P128"
+        ],
+        [
+            "49",
+            "Blessed bandage (5)",
+            "M152"
+        ],
+        [
+            "51",
+            "Disguise kit",
+            "P130"
+        ],
+        [
+            "53",
+            "Healer's kit",
+            "P130"
+        ],
+        [
+            "56",
+            "Oil of magic weapon",
+            "P251"
+        ],
+        [
+            "65",
+            "Potion of cure light wounds",
+            "P215"
+        ],
+        [
+            "68",
+            "Potion of endure elements",
+            "P226"
+        ],
+        [
+            "71",
+            "Potion of enlarge person",
+            "P226"
+        ],
+        [
+            "75",
+            "Potion of mage armor",
+            "P249"
+        ],
+        [
+            "78",
+            "Potion of magic fang",
+            "P250"
+        ],
+        [
+            "81",
+            "Potion of protection from chaos/evil/good/law",
+            "P266"
+        ],
+        [
+            "83",
+            "Potion of remove fear",
+            "P271"
+        ],
+        [
+            "85",
+            "Potion of shield of faith +2",
+            "P278"
+        ],
+        [
+            "88",
+            "Potion of lesser vigor [SC]",
+            "S229"
+        ],
+        [
+            "90",
+            "Quaal's feather token, anchor",
+            "D264"
+        ],
+        [
+            "92",
+            "Skill shard",
+            "M185"
+        ],
+        [
+            "94",
+            "Tanglefoot bag",
+            "P128"
+        ],
+        [
+            "98",
+            "Thieves' tools, masterwork",
+            "P130"
+        ],
+        [
+            "100",
+            "Universal solvent",
+            "D268"
+        ]
+    ],
+    "1": [
+        [
+            "4",
+            "Wand of detect magic (10 charges)",
+            "P219"
+        ],
+        [
+            "7",
+            "Wand of light (10 charges)",
+            "P248"
+        ],
+        [
+            "10",
+            "Wand of read magic (10 charges)",
+            "P269"
+        ],
+        [
+            "11",
+            "Climber's kit",
+            "P130"
+        ],
+        [
+            "14",
+            "Chain shirt",
+            "P124"
+        ],
+        [
+            "15",
+            "Crystal of illumination, least",
+            "M64"
+        ],
+        [
+            "16",
+            "Sleep arrow",
+            "D228"
+        ],
+        [
+            "18",
+            "Oil of bless weapon",
+            "P205"
+        ],
+        [
+            "19",
+            "Scroll of bless weapon (D)",
+            "P205"
+        ],
+        [
+            "21",
+            "Everburning torch",
+            "P128"
+        ],
+        [
+            "25",
+            "Scroll of identify (A)",
+            "P243"
+        ],
+        [
+            "26",
+            "Daylight pellet",
+            "M156"
+        ],
+        [
+            "27",
+            "Elixir of love",
+            "D255"
+        ],
+        [
+            "28",
+            "Scroll of baleful transposition [SC] (A)",
+            "S23"
+        ],
+        [
+            "30",
+            "Scroll of bear's endurance (A or D)",
+            "P203"
+        ],
+        [
+            "32",
+            "Scroll of bull's strength (A or D)",
+            "P207"
+        ],
+        [
+            "34",
+            "Scroll of cat's grace (A or D)",
+            "P208"
+        ],
+        [
+            "37",
+            "Scroll of cure moderate wounds (D)",
+            "P216"
+        ],
+        [
+            "38",
+            "Scroll of darkvision (A)",
+            "P216"
+        ],
+        [
+            "39",
+            "Scroll of delay poison (D)",
+            "P217"
+        ],
+        [
+            "40",
+            "Scroll of earthbind [SC] (A or D)",
+            "S76"
+        ],
+        [
+            "41",
+            "Scroll of find traps (D)",
+            "P230"
+        ],
+        [
+            "42",
+            "Scroll of ghost touch armor [SC] (A or D)",
+            "S102"
+        ],
+        [
+            "43",
+            "Scroll of glitterdust (A)",
+            "P236"
+        ],
+        [
+            "45",
+            "Scroll of invisibility (A)",
+            "P245"
+        ],
+        [
+            "49",
+            "Scroll of knock (A)",
+            "P246"
+        ],
+        [
+            "52",
+            "Scroll of remove paralysis (D)",
+            "P271"
+        ],
+        [
+            "55",
+            "Scroll of resist energy (A or D)",
+            "P272"
+        ],
+        [
+            "57",
+            "Scroll of lesser restoration (D)",
+            "P272"
+        ],
+        [
+            "58",
+            "Scroll of see invisibility (A)",
+            "P275"
+        ],
+        [
+            "59",
+            "Scroll of silence (D)",
+            "P279"
+        ],
+        [
+            "60",
+            "Unguent of timelessness",
+            "D268"
+        ],
+        [
+            "61",
+            "Wand of benign transposition [SC] (10 charges)",
+            "S27"
+        ],
+        [
+            "63",
+            "Wand of bless (10 charges)",
+            "P205"
+        ],
+        [
+            "71",
+            "Wand of cure light wounds (10 charges)",
+            "P215"
+        ],
+        [
+            "73",
+            "Wand of enlarge person (10 charges)",
+            "P226"
+        ],
+        [
+            "74",
+            "Wand of lesser vigor [SC] (10 charges)",
+            "S229"
+        ],
+        [
+            "78",
+            "Wand of mage armor (10 charges)",
+            "P249"
+        ],
+        [
+            "84",
+            "Wand of magic missile (CL 1st, 10 charges)",
+            "P251"
+        ],
+        [
+            "85",
+            "Wand of ray of enfeeblement (10 charges)",
+            "P269"
+        ],
+        [
+            "86",
+            "Wand of repair light damage [SC] (10 charges)",
+            "S173"
+        ],
+        [
+            "87",
+            "Wand of resurgence [SC] (10 charges)",
+            "S174"
+        ],
+        [
+            "89",
+            "Wand of shield (10 charges)",
+            "P278"
+        ],
+        [
+            "90",
+            "Wand of snake's swiftness [SC] (10 charges)",
+            "S193"
+        ],
+        [
+            "91",
+            "Light wooden shield, masterwork",
+            "P125"
+        ],
+        [
+            "92",
+            "Heavy wooden shield, masterwork",
+            "P125"
+        ],
+        [
+            "93",
+            "Light steel shield, masterwork",
+            "P125"
+        ],
+        [
+            "94",
+            "Buckler, masterwork",
+            "P125"
+        ],
+        [
+            "95",
+            "Leather, masterwork",
+            "P125"
+        ],
+        [
+            "96",
+            "Hide armor, masterwork",
+            "P125"
+        ],
+        [
+            "97",
+            "Heavy steel shield, masterwork",
+            "P125"
+        ],
+        [
+            "98",
+            "Studded leather, masterwork",
+            "P126"
+        ],
+        [
+            "99",
+            "Chainmail",
+            "P124"
+        ],
+        [
+            "100",
+            "Tower shield, masterwork",
+            "P125"
+        ]
+    ],
+    "2": [
+        [
+            "1",
+            "Scroll of arcane lock (A)",
+            "P200"
+        ],
+        [
+            "2",
+            "Crystal of lifekeeping, least",
+            "M25"
+        ],
+        [
+            "3",
+            "Everfull mug",
+            "M160"
+        ],
+        [
+            "4",
+            "Quaal's feather token, fan",
+            "D264"
+        ],
+        [
+            "5",
+            "Skill shard, greater",
+            "M185"
+        ],
+        [
+            "6",
+            "Tanglepatch",
+            "M188"
+        ],
+        [
+            "7",
+            "Chain shirt, masterwork",
+            "P124"
+        ],
+        [
+            "8",
+            "Darkwood shield",
+            "D221"
+        ],
+        [
+            "9",
+            "Darkwood buckler",
+            "D221"
+        ],
+        [
+            "10",
+            "Crystal of aquatic action, least",
+            "M25"
+        ],
+        [
+            "11",
+            "Dust of tracelessness",
+            "D255"
+        ],
+        [
+            "12",
+            "Elixir of hiding",
+            "D255"
+        ],
+        [
+            "13",
+            "Elixir of sneaking",
+            "D255"
+        ],
+        [
+            "14",
+            "Elixir of swimming",
+            "D255"
+        ],
+        [
+            "15",
+            "Elixir of vision",
+            "D256"
+        ],
+        [
+            "16",
+            "Incense of concentration",
+            "M162"
+        ],
+        [
+            "17",
+            "Jumping caltrops",
+            "M162"
+        ],
+        [
+            "18",
+            "Safewing emblem",
+            "M131"
+        ],
+        [
+            "19",
+            "Silversheen",
+            "D266"
+        ],
+        [
+            "20",
+            "Crystal of adamant armor, least",
+            "M24"
+        ],
+        [
+            "21",
+            "Crystal of adamant weaponry, least",
+            "M64"
+        ],
+        [
+            "22",
+            "Blight stone",
+            "M153"
+        ],
+        [
+            "23",
+            "Crystal of return, least",
+            "M65"
+        ],
+        [
+            "24",
+            "Crystal of security, least",
+            "M65"
+        ],
+        [
+            "25",
+            "Crystal of stamina, least",
+            "M26"
+        ],
+        [
+            "26",
+            "Elixir of flaming fists",
+            "M159"
+        ],
+        [
+            "27",
+            "Fountainhead arrow",
+            "M52"
+        ],
+        [
+            "28",
+            "Oil of darkness",
+            "P216"
+        ],
+        [
+            "29",
+            "Potion of barkskin +2",
+            "P203"
+        ],
+        [
+            "30",
+            "Potion of bear's endurance",
+            "P203"
+        ],
+        [
+            "31",
+            "Potion of blur",
+            "P206"
+        ],
+        [
+            "32",
+            "Potion of bull's strength",
+            "P207"
+        ],
+        [
+            "33",
+            "Potion of cat's grace",
+            "P208"
+        ],
+        [
+            "37",
+            "Potion of cure moderate wounds",
+            "P216"
+        ],
+        [
+            "38",
+            "Potion of darkvision",
+            "P216"
+        ],
+        [
+            "39",
+            "Potion of delay poison",
+            "P217"
+        ],
+        [
+            "40",
+            "Potion of eagle's splendor",
+            "P225"
+        ],
+        [
+            "41",
+            "Potion of fox's cunning",
+            "P233"
+        ],
+        [
+            "42",
+            "Potion of invisibility",
+            "P245"
+        ],
+        [
+            "44",
+            "Potion of lesser restoration",
+            "P272"
+        ],
+        [
+            "45",
+            "Potion of levitate",
+            "P248"
+        ],
+        [
+            "46",
+            "Potion of owl's wisdom",
+            "P259"
+        ],
+        [
+            "48",
+            "Potion of remove paralysis",
+            "P271"
+        ],
+        [
+            "50",
+            "Potion of resist energy (type) 10",
+            "P272"
+        ],
+        [
+            "51",
+            "Potion of shield of faith +3",
+            "P278"
+        ],
+        [
+            "52",
+            "Potion of spider climb",
+            "P283"
+        ],
+        [
+            "53",
+            "Quaal's feather token, bird",
+            "D264"
+        ],
+        [
+            "54",
+            "Stench stone",
+            "M186"
+        ],
+        [
+            "55",
+            "Screaming bolt",
+            "D227"
+        ],
+        [
+            "58",
+            "Masterwork weapon",
+            "M282"
+        ],
+        [
+            "59",
+            "Silver dagger, masterwork",
+            "D228"
+        ],
+        [
+            "60",
+            "Cold iron longsword, masterwork",
+            "D227"
+        ],
+        [
+            "61",
+            "Breastplate, masterwork",
+            "P124"
+        ],
+        [
+            "63",
+            "Everlasting rations",
+            "M160"
+        ],
+        [
+            "64",
+            "Scroll of create food and water (D)",
+            "P214"
+        ],
+        [
+            "66",
+            "Scroll of cure serious wounds (D)",
+            "P216"
+        ],
+        [
+            "67",
+            "Scroll of daylight (A or D)",
+            "P216"
+        ],
+        [
+            "68",
+            "Scroll of dispel magic (A or D)",
+            "P223"
+        ],
+        [
+            "69",
+            "Scroll of fireball (A)",
+            "P231"
+        ],
+        [
+            "70",
+            "Scroll of fly (A)",
+            "P232"
+        ],
+        [
+            "71",
+            "Scroll of haste (A)",
+            "P239"
+        ],
+        [
+            "72",
+            "Scroll of invisibility purge (D)",
+            "P245"
+        ],
+        [
+            "73",
+            "Scroll of lightning bolt (A)",
+            "P248"
+        ],
+        [
+            "74",
+            "Scroll of magic circle against chaos (A or D)",
+            "P249"
+        ],
+        [
+            "75",
+            "Scroll of magic circle against evil (A or D)",
+            "P249"
+        ],
+        [
+            "76",
+            "Scroll of magic circle against good (A or D)",
+            "P250"
+        ],
+        [
+            "77",
+            "Scroll of magic circle against law (A or D)",
+            "P250"
+        ],
+        [
+            "78",
+            "Scroll of neutralize poison (D)",
+            "P257"
+        ],
+        [
+            "79",
+            "Scroll of protection from energy (A or D)",
+            "P266"
+        ],
+        [
+            "80",
+            "Scroll of remove blindness/deafness (D)",
+            "P270"
+        ],
+        [
+            "81",
+            "Scroll of remove curse (D)",
+            "P270"
+        ],
+        [
+            "82",
+            "Scroll of remove disease (D)",
+            "P271"
+        ],
+        [
+            "83",
+            "Scroll of mass snake's swiftness [SC] (D)",
+            "S193"
+        ],
+        [
+            "84",
+            "Scroll of speak with dead (D)",
+            "P281"
+        ],
+        [
+            "85",
+            "Scroll of tongues (A)",
+            "P294"
+        ],
+        [
+            "86",
+            "Scroll of vigor [SC] (D)",
+            "S229"
+        ],
+        [
+            "87",
+            "Scroll of mass lesser vigor [SC] (D)",
+            "S229"
+        ],
+        [
+            "88",
+            "Scroll of water breathing (A or D)",
+            "P300"
+        ],
+        [
+            "89",
+            "Amulet of toxin delay",
+            "M70"
+        ],
+        [
+            "90",
+            "Charm of countersong",
+            "M85"
+        ],
+        [
+            "91",
+            "Crystal of illumination, lesser",
+            "M64"
+        ],
+        [
+            "92",
+            "Crystal of life drinking, least",
+            "M64"
+        ],
+        [
+            "93",
+            "Crystal of screening, least",
+            "M26"
+        ],
+        [
+            "95",
+            "Electric eel elixir",
+            "M158"
+        ],
+        [
+            "96",
+            "Essentia jewel",
+            "M159"
+        ],
+        [
+            "97",
+            "Life ring",
+            "M163"
+        ],
+        [
+            "99",
+            "Quaal's feather token, tree",
+            "D264"
+        ],
+        [
+            "100",
+            "Revelation crystal, least",
+            "M66"
+        ]
+    ],
+    "3": [
+        [
+            "1",
+            "Glitter stone",
+            "M161"
+        ],
+        [
+            "2",
+            "Quaal's feather token, swan boat",
+            "D264"
+        ],
+        [
+            "3",
+            "Amber amulet of vermin, giant bee",
+            "M68"
+        ],
+        [
+            "4",
+            "Amulet of aquatic salvation",
+            "M68"
+        ],
+        [
+            "5",
+            "Arcanist's gloves",
+            "M72"
+        ],
+        [
+            "6",
+            "Arrow (or bolt) of biting",
+            "M46"
+        ],
+        [
+            "7",
+            "Boots of landing",
+            "M77"
+        ],
+        [
+            "8",
+            "Brute gauntlets",
+            "M83"
+        ],
+        [
+            "9",
+            "Chronocharm of the celestial wanderer",
+            "M85"
+        ],
+        [
+            "10",
+            "Chronocharm of the fateweaver",
+            "M85"
+        ],
+        [
+            "11",
+            "Chronocharm of the grand master",
+            "M86"
+        ],
+        [
+            "12",
+            "Chronocharm of the horizon walker",
+            "M86"
+        ],
+        [
+            "13",
+            "Chronocharm of the laughing rogue",
+            "M86"
+        ],
+        [
+            "14",
+            "Chronocharm of the uncaring archmage",
+            "M86"
+        ],
+        [
+            "15",
+            "Crystal of energy assault, least",
+            "M64"
+        ],
+        [
+            "16",
+            "Clasp of energy protection, least",
+            "M24"
+        ],
+        [
+            "17",
+            "Crystal of adaptation, least",
+            "M24"
+        ],
+        [
+            "18",
+            "Crystal of arcane steel, least",
+            "M64"
+        ],
+        [
+            "19",
+            "Crystal of arrow deflection, least",
+            "M25"
+        ],
+        [
+            "20",
+            "Crystal of bent sight",
+            "M25"
+        ],
+        [
+            "21",
+            "Crystal of glancing blows, least",
+            "M25"
+        ],
+        [
+            "22",
+            "Crystal of mind cloaking, least",
+            "M25"
+        ],
+        [
+            "23",
+            "Dust of dispersion",
+            "M158"
+        ],
+        [
+            "24",
+            "Elixir of adamantine blood",
+            "M158"
+        ],
+        [
+            "25",
+            "Elixir of truth",
+            "D256"
+        ],
+        [
+            "26",
+            "Iron ward diamond, least",
+            "M26"
+        ],
+        [
+            "27",
+            "Magic bedroll",
+            "M163"
+        ],
+        [
+            "28",
+            "Phoenix ash threat, least",
+            "M65"
+        ],
+        [
+            "29",
+            "Quaal's feather token, whip",
+            "D264"
+        ],
+        [
+            "30",
+            "Reach gauntlets",
+            "M120"
+        ],
+        [
+            "31",
+            "Restful crystal",
+            "M26"
+        ],
+        [
+            "32",
+            "Rubicund frenzy, least",
+            "M26"
+        ],
+        [
+            "33",
+            "Shiftweave",
+            "M133"
+        ],
+        [
+            "34",
+            "Symbol of transfiguration",
+            "M139"
+        ],
+        [
+            "35",
+            "Talisman of the disk",
+            "M188"
+        ],
+        [
+            "36",
+            "Troll gut rope",
+            "M190"
+        ],
+        [
+            "37",
+            "Watch lamp",
+            "M147"
+        ],
+        [
+            "38",
+            "Necklace of copper dragon scales",
+            "M118"
+        ],
+        [
+            "39",
+            "Boots of agile leaping",
+            "M76"
+        ],
+        [
+            "40",
+            "Boots of stomping",
+            "M78"
+        ],
+        [
+            "41",
+            "Lenses of bright vision",
+            "M113"
+        ],
+        [
+            "42",
+            "Pearl of speech",
+            "M118"
+        ],
+        [
+            "43",
+            "Potion of barkskin +3",
+            "P203"
+        ],
+        [
+            "44",
+            "Potion of shield of faith +4",
+            "P278"
+        ],
+        [
+            "45",
+            "Wink brooch",
+            "M148"
+        ],
+        [
+            "46",
+            "Amber amulet of vermin, giant praying mantis",
+            "M68"
+        ],
+        [
+            "47",
+            "Amber amulet of vermin, giant queen ant",
+            "M68"
+        ],
+        [
+            "48",
+            "Amber amulet of vermin, Huge monstrous centipede",
+            "M68"
+        ],
+        [
+            "49",
+            "Amber amulet of vermin, Huge monstrous scorpion",
+            "M68"
+        ],
+        [
+            "50",
+            "Amber amulet of vermin, Large monstrous spider",
+            "M68"
+        ],
+        [
+            "51",
+            "Potion of resist energy (type) 20 (A or D)",
+            "P272"
+        ],
+        [
+            "52",
+            "Scroll of air walk (D)",
+            "P196"
+        ],
+        [
+            "53",
+            "Scroll of cure critical wounds [SC] (D)",
+            "P215"
+        ],
+        [
+            "54",
+            "Scroll of darkvision, mass [SC] (A)",
+            "S59"
+        ],
+        [
+            "55",
+            "Scroll of death ward (D)",
+            "P217"
+        ],
+        [
+            "56",
+            "Scroll of dimensional anchor (A or D)",
+            "P221"
+        ],
+        [
+            "57",
+            "Scroll of dismissal (D)",
+            "P222"
+        ],
+        [
+            "58",
+            "Scroll of freedom of movement (D)",
+            "P233"
+        ],
+        [
+            "59",
+            "Scroll of ice storm (A)",
+            "P243"
+        ],
+        [
+            "60",
+            "Scroll of greater invisibility (A)",
+            "P245"
+        ],
+        [
+            "61",
+            "Scroll of know vulnerabilities [SC] (A)",
+            "S129"
+        ],
+        [
+            "62",
+            "Scroll of Leomund's secure shelter (A)",
+            "P247"
+        ],
+        [
+            "63",
+            "Scroll of panacea [SC] (D)",
+            "S152"
+        ],
+        [
+            "64",
+            "Scroll of remove curse (A or D)",
+            "P270"
+        ],
+        [
+            "65",
+            "Scroll of revenance [SC] (D)",
+            "S175"
+        ],
+        [
+            "66",
+            "Scroll of sending (D)",
+            "P275"
+        ],
+        [
+            "67",
+            "Scroll of tongues (D)",
+            "P294"
+        ],
+        [
+            "68",
+            "Soulvoid orb",
+            "M186"
+        ],
+        [
+            "69",
+            "Crest of bravery",
+            "M90"
+        ],
+        [
+            "70",
+            "Healing belt",
+            "M110"
+        ],
+        [
+            "71",
+            "Oil of greater magic weapon +1",
+            "P251"
+        ],
+        [
+            "72",
+            "Oil of keen edge",
+            "P246"
+        ],
+        [
+            "73",
+            "Oil of magic vestment +1",
+            "P251"
+        ],
+        [
+            "75",
+            "Potion of cure serious wounds",
+            "P216"
+        ],
+        [
+            "76",
+            "Potion of displacement",
+            "P223"
+        ],
+        [
+            "77",
+            "Potion of fly",
+            "P232"
+        ],
+        [
+            "78",
+            "Potion of gaseous form",
+            "P234"
+        ],
+        [
+            "79",
+            "Potion of greater magic fang +1",
+            "P250"
+        ],
+        [
+            "80",
+            "Potion of haste",
+            "P239"
+        ],
+        [
+            "81",
+            "Potion of heroism",
+            "P240"
+        ],
+        [
+            "82",
+            "Potion of magic circle against chaos/evil/good/law",
+            "P249"
+        ],
+        [
+            "83",
+            "Potion of neutralize poison",
+            "P257"
+        ],
+        [
+            "84",
+            "Potion of protection from energy",
+            "P266"
+        ],
+        [
+            "85",
+            "Potion of remove blindness/deafness",
+            "P270"
+        ],
+        [
+            "86",
+            "Potion of remove curse",
+            "P270"
+        ],
+        [
+            "87",
+            "Potion of remove disease",
+            "P271"
+        ],
+        [
+            "88",
+            "Potion of vigor",
+            "S229"
+        ],
+        [
+            "89",
+            "SC Potion of water breathing",
+            "P300"
+        ],
+        [
+            "90",
+            "Powder of the black veil",
+            "M169"
+        ],
+        [
+            "91",
+            "Scrying beacon",
+            "M184"
+        ],
+        [
+            "92",
+            "Wand of magic missile (CL 5th, 10 charges)",
+            "P251"
+        ],
+        [
+            "93",
+            "Amber amulet of vermin, giant wasp",
+            "M68"
+        ],
+        [
+            "94",
+            "Bag of endless caltrops",
+            "M151"
+        ],
+        [
+            "95",
+            "Everlasting feedbag",
+            "M160"
+        ],
+        [
+            "96",
+            "Armband of elusive action",
+            "M72"
+        ],
+        [
+            "97",
+            "Ephod of authority",
+            "M215"
+        ],
+        [
+            "98",
+            "SP Porcupine elixir",
+            "M169"
+        ],
+        [
+            "99",
+            "Rope of stone",
+            "M176"
+        ],
+        [
+            "100",
+            "Scroll of restoration (D)",
+            "P272"
+        ]
+    ],
+    "4": [
+        [
+            "1",
+            "Eternal wand of cure light wounds",
+            "P215"
+        ],
+        [
+            "2",
+            "Eternal wand of enlarge person",
+            "P226"
+        ],
+        [
+            "3",
+            "Eternal wand of mage armor",
+            "P249"
+        ],
+        [
+            "4",
+            "Eternal wand of magic missile",
+            "P251"
+        ],
+        [
+            "5",
+            "Eternal wand of protection from chaos/evil/good/law",
+            "P266"
+        ],
+        [
+            "6",
+            "Eternal wand of ray of enfeeblement",
+            "P269"
+        ],
+        [
+            "7",
+            "Eternal wand of repair light damage [SC]",
+            "S173"
+        ],
+        [
+            "8",
+            "Eternal wand of shield",
+            "P278"
+        ],
+        [
+            "9",
+            "Dust of dryness",
+            "D255"
+        ],
+        [
+            "10",
+            "Acrobat boots",
+            "M67"
+        ],
+        [
+            "11",
+            "Bag of tricks, gray",
+            "D248"
+        ],
+        [
+            "12",
+            "Blast disk",
+            "M152"
+        ],
+        [
+            "13",
+            "Crystal of stamina, lesser",
+            "M26"
+        ],
+        [
+            "14",
+            "Hand of the mage",
+            "D258"
+        ],
+        [
+            "15",
+            "Pearl of brain lock",
+            "M167"
+        ],
+        [
+            "16",
+            "Piercer cloak",
+            "M118"
+        ],
+        [
+            "17",
+            "Potion of barkskin +4",
+            "P203"
+        ],
+        [
+            "18",
+            "Wand of bear's endurance (10 charges)",
+            "P203"
+        ],
+        [
+            "19",
+            "Wand of blur (10 charges)",
+            "P206"
+        ],
+        [
+            "20",
+            "Wand of bull's strength (10 charges)",
+            "P207"
+        ],
+        [
+            "21",
+            "Wand of cat's grace (10 charges)",
+            "P208"
+        ],
+        [
+            "22",
+            "Wand of cure moderate wounds (10 charges)",
+            "P216"
+        ],
+        [
+            "23",
+            "Wand of delay poison (10 charges)",
+            "P217"
+        ],
+        [
+            "24",
+            "Wand of invisibility (10 charges)",
+            "P245"
+        ],
+        [
+            "25",
+            "Wand of knock (10 charges)",
+            "P246"
+        ],
+        [
+            "26",
+            "Wand of mirror image (10 charges)",
+            "P254"
+        ],
+        [
+            "27",
+            "Wand of repair moderate damage [SC] (10 charges)",
+            "S173"
+        ],
+        [
+            "28",
+            "Wand of scorching ray (10 charges)",
+            "P274"
+        ],
+        [
+            "29",
+            "Wand of see invisibility (10 charges)",
+            "P275"
+        ],
+        [
+            "30",
+            "Scroll of stoneskin (A)",
+            "P284"
+        ],
+        [
+            "31",
+            "Bracers of armor +1",
+            "D250"
+        ],
+        [
+            "32",
+            "Brawler's gauntlets",
+            "M82"
+        ],
+        [
+            "33",
+            "Brooch of stability",
+            "M83"
+        ],
+        [
+            "34",
+            "Burning veil [SP]",
+            "M211"
+        ],
+        [
+            "35",
+            "Cloak of elemental protection",
+            "M87"
+        ],
+        [
+            "36",
+            "Cloak of resistance +1",
+            "D253"
+        ],
+        [
+            "37",
+            "Cognizance crystal, 1 point",
+            "M154"
+        ],
+        [
+            "38",
+            "Crystal of aquatic action, lesser",
+            "M25"
+        ],
+        [
+            "39",
+            "Crystal of illumination, greater",
+            "M64"
+        ],
+        [
+            "40",
+            "Crystal of lifekeeping, lesser",
+            "M25"
+        ],
+        [
+            "41",
+            "Crystal of return, lesser",
+            "M65"
+        ],
+        [
+            "42",
+            "Crystal of screening, lesser",
+            "M26"
+        ],
+        [
+            "43",
+            "Crystal of security, lesser",
+            "M65"
+        ],
+        [
+            "44",
+            "Demolition crystal, least",
+            "M65"
+        ],
+        [
+            "45",
+            "Dispelling cord",
+            "M94"
+        ],
+        [
+            "46",
+            "Drums of marching",
+            "M158"
+        ],
+        [
+            "47",
+            "Eagle claw talisman",
+            "M96"
+        ],
+        [
+            "48",
+            "Fiendslayer crystal, least",
+            "M65"
+        ],
+        [
+            "49",
+            "Gauntlets of energy transformation",
+            "M102"
+        ],
+        [
+            "50",
+            "Cloves of spell disruption",
+            "M107"
+        ],
+        [
+            "51",
+            "Gloves of the starry sky [SP]",
+            "M204"
+        ],
+        [
+            "52",
+            "Glyph seal",
+            "M161"
+        ],
+        [
+            "53",
+            "Lightning gauntlets",
+            "M113"
+        ],
+        [
+            "54",
+            "Pearl of power, 1st-level spell",
+            "D263"
+        ],
+        [
+            "55",
+            "Phylactery of faithfulness",
+            "D264"
+        ],
+        [
+            "56",
+            "Reliquary holy symbol",
+            "M120"
+        ],
+        [
+            "57",
+            "Replenishing skin",
+            "M173"
+        ],
+        [
+            "58",
+            "Revelation crystal, lesser",
+            "M66"
+        ],
+        [
+            "59",
+            "Ring of brief blessing",
+            "M122"
+        ],
+        [
+            "60",
+            "Salve of slipperiness",
+            "D266"
+        ],
+        [
+            "61",
+            "Third eye improvisation",
+            "M141"
+        ],
+        [
+            "62",
+            "Truedeath crystal, least",
+            "M66"
+        ],
+        [
+            "63",
+            "Vest of resistance +1",
+            "M147"
+        ],
+        [
+            "73",
+            "+1 armor/shield",
+            "M282"
+        ],
+        [
+            "74",
+            "Mithral heavy shield",
+            "D221"
+        ],
+        [
+            "75",
+            "Potion of good hope",
+            "P237"
+        ],
+        [
+            "76",
+            "Mithral shirt",
+            "D220"
+        ],
+        [
+            "77",
+            "Elixir of fire breath",
+            "D255"
+        ],
+        [
+            "78",
+            "Potion of resist energy (type) 30",
+            "P272"
+        ],
+        [
+            "79",
+            "Scroll of break enchantment (A)",
+            "P207"
+        ],
+        [
+            "80",
+            "Scroll of contact other plane (A)",
+            "P212"
+        ],
+        [
+            "81",
+            "Scroll of greater dimension door [SC] (A)",
+            "S64"
+        ],
+        [
+            "82",
+            "Scroll of dismissal (A)",
+            "P222"
+        ],
+        [
+            "83",
+            "Scroll of disrupting weapon (D)",
+            "P223"
+        ],
+        [
+            "84",
+            "Scroll of fire shield, mass [SC] (A)",
+            "S92"
+        ],
+        [
+            "85",
+            "Scroll of mass fly [SC] (A)",
+            "S96"
+        ],
+        [
+            "86",
+            "Scroll of Mordenkainen's private sanctum (A)",
+            "P256"
+        ],
+        [
+            "87",
+            "Scroll of plane shift (D)",
+            "P262"
+        ],
+        [
+            "88",
+            "Scroll of sending (A)",
+            "P275"
+        ],
+        [
+            "89",
+            "Scroll of teleport (A)",
+            "P292"
+        ],
+        [
+            "90",
+            "Scroll of vigorous circle [SC] (D)",
+            "S229"
+        ],
+        [
+            "91",
+            "Pipes of the sewers",
+            "D264"
+        ],
+        [
+            "92",
+            "Amber amulet of vermin, giant stag beetle",
+            "M68"
+        ],
+        [
+            "93",
+            "Dragon's draught, brass",
+            "M157"
+        ],
+        [
+            "94",
+            "Dragon's draught, white",
+            "M157"
+        ],
+        [
+            "95",
+            "Dust of illusion",
+            "D255"
+        ],
+        [
+            "96",
+            "Oil of greater magic weapon +2",
+            "P251"
+        ],
+        [
+            "97",
+            "Oil of magic vestment +2",
+            "P251"
+        ],
+        [
+            "98",
+            "Potion of barkskin +5",
+            "P203"
+        ],
+        [
+            "99",
+            "Potion of greater magic fang +2",
+            "P250"
+        ],
+        [
+            "100",
+            "Goggles of minute seeing",
+            "D257"
+        ]
+    ],
+    "5": [
+        [
+            "1",
+            "Beetle elixir",
+            "M151"
+        ],
+        [
+            "2",
+            "Fochlucan bandore",
+            "M161"
+        ],
+        [
+            "3",
+            "Medal of gallantry",
+            "M116"
+        ],
+        [
+            "4",
+            "Salve of minor spell resistance",
+            "M183"
+        ],
+        [
+            "5",
+            "Scrying shard",
+            "M184"
+        ],
+        [
+            "6",
+            "Snakeblood tooth",
+            "M136"
+        ],
+        [
+            "7",
+            "Wand of magic missile (CL 9th, 10 charges)",
+            "P251"
+        ],
+        [
+            "8",
+            "Wyrmfang amulet",
+            "M148"
+        ],
+        [
+            "9",
+            "Scroll of true seeing (D)",
+            "P296"
+        ],
+        [
+            "10",
+            "Crystal of adamant armor, lesser",
+            "M24"
+        ],
+        [
+            "11",
+            "Crystal of adamant weaponry, lesser",
+            "M64"
+        ],
+        [
+            "12",
+            "Anklet of translocation",
+            "M71"
+        ],
+        [
+            "13",
+            "Arcane thieves' tools",
+            "M150"
+        ],
+        [
+            "14",
+            "Armband of confrontation [SP]",
+            "M193"
+        ],
+        [
+            "15",
+            "Badge of valor [SP]",
+            "M208"
+        ],
+        [
+            "16",
+            "Bag of boulders",
+            "M150"
+        ],
+        [
+            "17",
+            "Blighter's hex-eye",
+            "M75"
+        ],
+        [
+            "18",
+            "Bracers of quick strike",
+            "M81"
+        ],
+        [
+            "19",
+            "Cloak of predatory vigor",
+            "M87"
+        ],
+        [
+            "20",
+            "Cobra straps [SP]",
+            "M201"
+        ],
+        [
+            "21",
+            "Ehlonna's seed pouch [R]",
+            "M158"
+        ],
+        [
+            "22",
+            "Lenses of revelation [SP]",
+            "M215"
+        ],
+        [
+            "23",
+            "Rod of frost",
+            "M174"
+        ],
+        [
+            "24",
+            "Rod of sliding",
+            "M175"
+        ],
+        [
+            "26",
+            "Sending stones (pair)",
+            "M184"
+        ],
+        [
+            "27",
+            "Spool of endless rope",
+            "M186"
+        ],
+        [
+            "28",
+            "Standard of valor [SP]",
+            "M197"
+        ],
+        [
+            "29",
+            "Steadfast boots",
+            "M138"
+        ],
+        [
+            "30",
+            "Aroma of dreams",
+            "M150"
+        ],
+        [
+            "31",
+            "Bracers of great collision",
+            "M80"
+        ],
+        [
+            "32",
+            "Brooch of shielding",
+            "D250"
+        ],
+        [
+            "33",
+            "Camouflage paint",
+            "M153"
+        ],
+        [
+            "34",
+            "Clasp of energy protection, lesser",
+            "M24"
+        ],
+        [
+            "35",
+            "Crystal of adaptation, lesser",
+            "M24"
+        ],
+        [
+            "36",
+            "Crystal of life drinking, lesser",
+            "M64"
+        ],
+        [
+            "37",
+            "Empowered spellshard, 1st-level spell",
+            "M96"
+        ],
+        [
+            "38",
+            "Enduring amulet",
+            "M97"
+        ],
+        [
+            "39",
+            "Exploding spike",
+            "M160"
+        ],
+        [
+            "40",
+            "Hammersphere",
+            "M161"
+        ],
+        [
+            "41",
+            "Inquisitor bracers",
+            "M113"
+        ],
+        [
+            "42",
+            "Javelin of lightning",
+            "D226"
+        ],
+        [
+            "44",
+            "Memento magica, 1st-level spell",
+            "M164"
+        ],
+        [
+            "45",
+            "Artificer's monocle",
+            "M72"
+        ],
+        [
+            "46",
+            "Bear helm",
+            "M72"
+        ],
+        [
+            "47",
+            "Belt of one mighty blow",
+            "M74"
+        ],
+        [
+            "49",
+            "Boots of dragonstriding",
+            "M77"
+        ],
+        [
+            "51",
+            "Boots of the mountain king",
+            "M78"
+        ],
+        [
+            "53",
+            "Tome of worldly memory",
+            "M190"
+        ],
+        [
+            "55",
+            "Headband of the lorebinder",
+            "M110"
+        ],
+        [
+            "57",
+            "Rhino elixir",
+            "M173"
+        ],
+        [
+            "59",
+            "Full plate, masterwork",
+            "P124"
+        ],
+        [
+            "61",
+            "Necklace of fireballs type I",
+            "D263"
+        ],
+        [
+            "62",
+            "Scroll of blade barrier (D)",
+            "P205"
+        ],
+        [
+            "63",
+            "Scroll of chain lightning (A)",
+            "P208"
+        ],
+        [
+            "64",
+            "Scroll of cloak of the sea [SC] (A)",
+            "S48"
+        ],
+        [
+            "67",
+            "Scroll of disintegrate (A)",
+            "P222"
+        ],
+        [
+            "70",
+            "Scroll of greater dispel magic (A or D)",
+            "P223"
+        ],
+        [
+            "71",
+            "Scroll of energy immunity [SC] (D)",
+            "S80"
+        ],
+        [
+            "72",
+            "Scroll of find the path (D)",
+            "P230"
+        ],
+        [
+            "73",
+            "Scroll of ghost trap [SC] (D)",
+            "S103"
+        ],
+        [
+            "76",
+            "Scroll of harm (D)",
+            "P239"
+        ],
+        [
+            "80",
+            "Scroll of heal (D)",
+            "P239"
+        ],
+        [
+            "81",
+            "Scroll of shadow walk (A)",
+            "P277"
+        ],
+        [
+            "83",
+            "Scroll of stone to flesh (A)",
+            "P285"
+        ],
+        [
+            "85",
+            "Scroll of wind walk (D)",
+            "P302"
+        ],
+        [
+            "87",
+            "Dust of appearance",
+            "D255"
+        ],
+        [
+            "88",
+            "Githborn talisman",
+            "M105"
+        ],
+        [
+            "89",
+            "Hat of disguise",
+            "D258"
+        ],
+        [
+            "92",
+            "Oil of greater magic weapon +3",
+            "P251"
+        ],
+        [
+            "94",
+            "Oil of magic vestment +3",
+            "P251"
+        ],
+        [
+            "95",
+            "Pipes of sounding",
+            "D264"
+        ],
+        [
+            "97",
+            "Potion of greater magic fang +3",
+            "P250"
+        ],
+        [
+            "99",
+            "Quiver of Ehlonna",
+            "D265"
+        ],
+        [
+            "100",
+            "Sphere of awakening",
+            "M186"
+        ]
+    ],
+    "6": [
+        [
+            "1",
+            "Adamantine mind blade gauntlets",
+            "M68"
+        ],
+        [
+            "2",
+            "Amulet of natural armor +1",
+            "D246"
+        ],
+        [
+            "3",
+            "Amulet of retributive healing",
+            "M69"
+        ],
+        [
+            "4",
+            "Amulet of teamwork",
+            "M70"
+        ],
+        [
+            "5",
+            "Belt of theft-healing",
+            "M74"
+        ],
+        [
+            "6",
+            "Boots of the battle charger",
+            "M76"
+        ],
+        [
+            "7",
+            "Bracers of the entangling blast",
+            "M80"
+        ],
+        [
+            "8",
+            "Caduceus bracers",
+            "M84"
+        ],
+        [
+            "9",
+            "Cape of the viper",
+            "M84"
+        ],
+        [
+            "10",
+            "Caustic veil [SP]",
+            "M212"
+        ],
+        [
+            "11",
+            "Crystal of arcane steel, lesser",
+            "M64"
+        ],
+        [
+            "12",
+            "Devastation gauntlets",
+            "M93"
+        ],
+        [
+            "13",
+            "Dimension stride boots",
+            "M94"
+        ],
+        [
+            "14",
+            "Dragon spirit amulet",
+            "M95"
+        ],
+        [
+            "15",
+            "Dragon spirit cincture",
+            "M95"
+        ],
+        [
+            "16",
+            "Field provisions box",
+            "M160"
+        ],
+        [
+            "17",
+            "Gauntlets of arrow reflection",
+            "M101"
+        ],
+        [
+            "18",
+            "Gauntlets of extended range",
+            "M103"
+        ],
+        [
+            "19",
+            "Gauntlets of giantfelling",
+            "M103"
+        ],
+        [
+            "20",
+            "Gauntlets of throwing",
+            "M104"
+        ],
+        [
+            "21",
+            "Gloves of fortunate striking",
+            "M105"
+        ],
+        [
+            "22",
+            "Gloves of lightning",
+            "M106"
+        ],
+        [
+            "23",
+            "Goggles of lifesight",
+            "M108"
+        ],
+        [
+            "24",
+            "Goodberry bracelet",
+            "M108"
+        ],
+        [
+            "25",
+            "Greatreach bracers",
+            "M108"
+        ],
+        [
+            "26",
+            "Headband of conscious effort",
+            "M109"
+        ],
+        [
+            "27",
+            "Helm of battle",
+            "M111"
+        ],
+        [
+            "28",
+            "Helm of tactics [SP]",
+            "M208"
+        ],
+        [
+            "29",
+            "Heward's handy haversack",
+            "D259"
+        ],
+        [
+            "30",
+            "Horn of fog",
+            "D259"
+        ],
+        [
+            "31",
+            "Iron ward diamond, lesser",
+            "M26"
+        ],
+        [
+            "32",
+            "Mask of sweet air",
+            "M116"
+        ],
+        [
+            "33",
+            "Orb of environmental adaptation",
+            "M167"
+        ],
+        [
+            "34",
+            "Pearl of breath crisis",
+            "M168"
+        ],
+        [
+            "35",
+            "Phoenix ash threat, lesser",
+            "M65"
+        ],
+        [
+            "36",
+            "Rearguard's cape",
+            "M120"
+        ],
+        [
+            "37",
+            "Ring of communication",
+            "M122"
+        ],
+        [
+            "38",
+            "Ring of floating",
+            "M123"
+        ],
+        [
+            "39",
+            "Ring of four winds",
+            "M124"
+        ],
+        [
+            "40",
+            "Ring of piercing spells",
+            "M126"
+        ],
+        [
+            "41",
+            "Ring of protection +1",
+            "D232"
+        ],
+        [
+            "42",
+            "Ring of the darkhidden",
+            "M122"
+        ],
+        [
+            "43",
+            "Ring of silent spells",
+            "M127"
+        ],
+        [
+            "44",
+            "Rock boots",
+            "M130"
+        ],
+        [
+            "45",
+            "Rod of grievous wounds",
+            "M174"
+        ],
+        [
+            "46",
+            "Rod of viscid globs",
+            "M176"
+        ],
+        [
+            "47",
+            "Rubicund frenzy, lesser",
+            "M26"
+        ],
+        [
+            "48",
+            "Sepulchral vest",
+            "M133"
+        ],
+        [
+            "49",
+            "Silkslick belt",
+            "M136"
+        ],
+        [
+            "50",
+            "Slashing sand",
+            "M185"
+        ],
+        [
+            "51",
+            "Spellsink scarab",
+            "M138"
+        ],
+        [
+            "52",
+            "Torc of displacement",
+            "M143"
+        ],
+        [
+            "53",
+            "Vest of defense",
+            "M146"
+        ],
+        [
+            "60",
+            "+1 weapon",
+            "M282"
+        ],
+        [
+            "61",
+            "Amulet of incarnum shielding",
+            "M69"
+        ],
+        [
+            "62",
+            "Enemy spirit pouch",
+            "M97"
+        ],
+        [
+            "63",
+            "Mac-Fuirmidh cithern",
+            "M163"
+        ],
+        [
+            "64",
+            "Third eye surge",
+            "M143"
+        ],
+        [
+            "65",
+            "Scroll of revivify [SC] (D)",
+            "S176"
+        ],
+        [
+            "66",
+            "Shield of mercy",
+            "M21"
+        ],
+        [
+            "67",
+            "Gloves of agile striking",
+            "M105"
+        ],
+        [
+            "68",
+            "Ring of feather falling",
+            "D232"
+        ],
+        [
+            "69",
+            "Elemental gem",
+            "D255"
+        ],
+        [
+            "70",
+            "Healing salve",
+            "M162"
+        ],
+        [
+            "71",
+            "Wand of call lightning (10 charges)",
+            "P207"
+        ],
+        [
+            "72",
+            "Wand of cure serious wounds (10 charges)",
+            "P216"
+        ],
+        [
+            "73",
+            "Wand of dispel magic (10 charges)",
+            "P223"
+        ],
+        [
+            "74",
+            "Wand of displacement (10 charges)",
+            "P223"
+        ],
+        [
+            "75",
+            "Wand of fireball (10 charges)",
+            "P231"
+        ],
+        [
+            "76",
+            "Wand of fly (101charges)",
+            "P232"
+        ],
+        [
+            "77",
+            "Wand of haste (10 charges)",
+            "P239"
+        ],
+        [
+            "78",
+            "Wand of invisibility sphere (10 charges)",
+            "P245"
+        ],
+        [
+            "79",
+            "Wand of lightning bolt (10 charges)",
+            "P248"
+        ],
+        [
+            "80",
+            "Wand of mass lesser vigor [SC] (10 charges)",
+            "S229"
+        ],
+        [
+            "81",
+            "Wand of repair serious damage [SC] (10 charges]",
+            "S173"
+        ],
+        [
+            "82",
+            "Wand of vigor [SC] (10 charges)",
+            "S229"
+        ],
+        [
+            "83",
+            "Scroll of banishment (A)",
+            "P203"
+        ],
+        [
+            "84",
+            "Scroll of energy immunity [SC] (A)",
+            "S80"
+        ],
+        [
+            "85",
+            "Scroll of ethereal jaunt (A or D)",
+            "P227"
+        ],
+        [
+            "86",
+            "Scroll of invisibility, mass (A)",
+            "P245"
+        ],
+        [
+            "87",
+            "Scroll of Mordenkainen's magnificent mansion (A)",
+            "P256"
+        ],
+        [
+            "88",
+            "Scroll of regenerate (D)",
+            "P270"
+        ],
+        [
+            "89",
+            "Scroll of spell turning (A)",
+            "P282"
+        ],
+        [
+            "90",
+            "Scroll of sunbeam (D)",
+            "P289"
+        ],
+        [
+            "91",
+            "Scroll of teleport, greater (A)",
+            "P293"
+        ],
+        [
+            "92",
+            "Slaying arrow",
+            "D228"
+        ],
+        [
+            "93",
+            "Amulet of tears",
+            "M70"
+        ],
+        [
+            "94",
+            "Bracers of arcane freedom",
+            "M80"
+        ],
+        [
+            "95",
+            "Bracers of opportunity",
+            "M81"
+        ],
+        [
+            "96",
+            "Brute ring",
+            "M83"
+        ],
+        [
+            "97",
+            "Cloak of weaponry",
+            "M89"
+        ],
+        [
+            "98",
+            "Rod of fumbling",
+            "M174"
+        ],
+        [
+            "99",
+            "Repelling gauntlets",
+            "M121"
+        ],
+        [
+            "100",
+            "Sandals of sprinting",
+            "M131"
+        ]
+    ],
+    "7": [
+        [
+            "1",
+            "Scroll of restoration, mass [SC] (D)",
+            "S174"
+        ],
+        [
+            "2",
+            "Dragon's draught, black",
+            "M157"
+        ],
+        [
+            "3",
+            "Dragon's draught, copper",
+            "M157"
+        ],
+        [
+            "4",
+            "Oil of greater magic weapon +4",
+            "P251"
+        ],
+        [
+            "5",
+            "Oil of magic vestment +4",
+            "P251"
+        ],
+        [
+            "6",
+            "Potion of greater magic fang +4",
+            "P250"
+        ],
+        [
+            "7",
+            "Robe of bones",
+            "D265"
+        ],
+        [
+            "8",
+            "Scroll of revenance [SC] (A)",
+            "P175"
+        ],
+        [
+            "9",
+            "Sovereign glue",
+            "D266"
+        ],
+        [
+            "10",
+            "Bag of holding type I",
+            "D248"
+        ],
+        [
+            "11",
+            "Boots of elvenkind",
+            "D250"
+        ],
+        [
+            "12",
+            "Boots of jumping",
+            "M77"
+        ],
+        [
+            "13",
+            "Boots of the winterlands",
+            "D250"
+        ],
+        [
+            "14",
+            "Candle of truth",
+            "D251"
+        ],
+        [
+            "15",
+            "Censer of the last breath [R]",
+            "M153"
+        ],
+        [
+            "16",
+            "Cloak of elvenkind",
+            "D253"
+        ],
+        [
+            "17",
+            "Cloak of quills",
+            "M87"
+        ],
+        [
+            "18",
+            "Counterstrike bracers",
+            "M90"
+        ],
+        [
+            "19",
+            "Crystal anchor of alertness",
+            "M155"
+        ],
+        [
+            "20",
+            "Crystal mask of knowledge",
+            "M91"
+        ],
+        [
+            "21",
+            "Crystal mask of languages",
+            "M91"
+        ],
+        [
+            "22",
+            "Crystal of arrow deflection, lesser",
+            "M25"
+        ],
+        [
+            "23",
+            "Eyes of the eagle",
+            "D256"
+        ],
+        [
+            "24",
+            "Cloves of eldritch admixture",
+            "M105"
+        ],
+        [
+            "25",
+            "Goggles of foefinding",
+            "M108"
+        ],
+        [
+            "26",
+            "Golembane scarab",
+            "D266"
+        ],
+        [
+            "27",
+            "Icy strand of the north",
+            "M162"
+        ],
+        [
+            "28",
+            "Ring of climbing",
+            "D230"
+        ],
+        [
+            "29",
+            "Ring of jumping",
+            "D232"
+        ],
+        [
+            "30",
+            "Ring of sustenance",
+            "D233"
+        ],
+        [
+            "31",
+            "Ring of swimming",
+            "D233"
+        ],
+        [
+            "32",
+            "Spellsight spectacles",
+            "M138"
+        ],
+        [
+            "33",
+            "Third eye dampening",
+            "M141"
+        ],
+        [
+            "34",
+            "Third eye expose",
+            "M141"
+        ],
+        [
+            "35",
+            "Tunic of steady spellcasting",
+            "M144"
+        ],
+        [
+            "36",
+            "Vanisher cloak",
+            "M145"
+        ],
+        [
+            "37",
+            "Bands of blood rage [SP]",
+            "M202"
+        ],
+        [
+            "38",
+            "Third eye freedom",
+            "M141"
+        ],
+        [
+            "39",
+            "Crystal of energy assault, lesser",
+            "M64"
+        ],
+        [
+            "40",
+            "Crystal of stamina, greater",
+            "M26"
+        ],
+        [
+            "41",
+            "Metamagic rod, Substitution, lesser",
+            "M165"
+        ],
+        [
+            "42",
+            "Necklace of fireballs type II",
+            "D263"
+        ],
+        [
+            "43",
+            "Panther mask [SP]",
+            "M201"
+        ],
+        [
+            "44",
+            "Stone of alarm",
+            "D267"
+        ],
+        [
+            "45",
+            "Wand of searing light (CL 6th, 10 charges)",
+            "P275"
+        ],
+        [
+            "46",
+            "Aberrant sphere",
+            "M149"
+        ],
+        [
+            "47",
+            "Boots of desperation",
+            "M77"
+        ],
+        [
+            "48",
+            "Infinite scrollcase",
+            "M162"
+        ],
+        [
+            "49",
+            "Meteoric knife",
+            "M53"
+        ],
+        [
+            "50",
+            "Bag of tricks, rust",
+            "D248"
+        ],
+        [
+            "51",
+            "Bead of force",
+            "D248"
+        ],
+        [
+            "52",
+            "Belt of growth",
+            "M73"
+        ],
+        [
+            "53",
+            "Burnoose of 1,001 thorns",
+            "M83"
+        ],
+        [
+            "54",
+            "Chime of opening",
+            "D252"
+        ],
+        [
+            "55",
+            "Circlet of solace",
+            "M87"
+        ],
+        [
+            "56",
+            "Clasp of energy protection, greater",
+            "M24"
+        ],
+        [
+            "57",
+            "Contact medallion",
+            "M90"
+        ],
+        [
+            "58",
+            "Cord of favor [SP]",
+            "M215"
+        ],
+        [
+            "59",
+            "Corsair's eye patch",
+            "M90"
+        ],
+        [
+            "60",
+            "Crystal of adaptation, greater",
+            "M24"
+        ],
+        [
+            "61",
+            "Crystal of aquatic action, greater",
+            "M25"
+        ],
+        [
+            "62",
+            "Crystal of glancing blows, lesser",
+            "M25"
+        ],
+        [
+            "63",
+            "Crystal of screening, greater",
+            "M26"
+        ],
+        [
+            "64",
+            "Crystal of security, greater",
+            "M65"
+        ],
+        [
+            "65",
+            "Demolition crystal, lesser",
+            "M65"
+        ],
+        [
+            "66",
+            "Empowered spellshard, 2nd-level spell",
+            "M96"
+        ],
+        [
+            "67",
+            "Essentia helm",
+            "M97"
+        ],
+        [
+            "68",
+            "Fiendslayer crystal, lesser",
+            "M65"
+        ],
+        [
+            "69",
+            "Gloves of manual prowess",
+            "M106"
+        ],
+        [
+            "70",
+            "Gloves of object reading",
+            "M107"
+        ],
+        [
+            "71",
+            "Heartseeking amulet",
+            "M110"
+        ],
+        [
+            "72",
+            "Horseshoes of speed",
+            "D260"
+        ],
+        [
+            "73",
+            "Metamagic rod, Enlarge, lesser",
+            "D236"
+        ],
+        [
+            "74",
+            "Metamagic rod, Extend, lesser",
+            "D236"
+        ],
+        [
+            "75",
+            "Metamagic rod, Sculpting, lesser",
+            "M165"
+        ],
+        [
+            "76",
+            "Metamagic rod, Silent, lesser",
+            "D236"
+        ],
+        [
+            "77",
+            "Oil of greater magic weapon +5",
+            "P251"
+        ],
+        [
+            "78",
+            "Oil of magic vestment +5",
+            "P251"
+        ],
+        [
+            "79",
+            "Potion of greater magic fang +5",
+            "P250"
+        ],
+        [
+            "80",
+            "Rope of climbing",
+            "D266"
+        ],
+        [
+            "81",
+            "Scroll of brilliant aura [SC] (D)",
+            "S39"
+        ],
+        [
+            "82",
+            "Scroll of cure critical wounds, mass (D)",
+            "P215"
+        ],
+        [
+            "83",
+            "Scroll of death ward, mass [SC] (D)",
+            "P217"
+        ],
+        [
+            "84",
+            "Scroll of dimensional lock (A or D)",
+            "P221"
+        ],
+        [
+            "85",
+            "Scroll of discern location (D)",
+            "P222"
+        ],
+        [
+            "86",
+            "Scroll of earthquake (D)",
+            "P225"
+        ],
+        [
+            "87",
+            "Scroll of fire storm (D)",
+            "P231"
+        ],
+        [
+            "88",
+            "Scroll of ghostform [SC] (A)",
+            "S130"
+        ],
+        [
+            "89",
+            "Scroll of horrid wilting (A)",
+            "P242"
+        ],
+        [
+            "90",
+            "Scroll of invisibility, superior [SC] (A)",
+            "S125"
+        ],
+        [
+            "91",
+            "Scroll of iron body (A)",
+            "P245"
+        ],
+        [
+            "92",
+            "Scroll of mind blank (A)",
+            "P253"
+        ],
+        [
+            "93",
+            "Scroll of greater plane shift (A)",
+            "P262"
+        ],
+        [
+            "94",
+            "Scroll of polar ray (A)",
+            "P262"
+        ],
+        [
+            "95",
+            "Scroll of sunburst (D)",
+            "P289"
+        ],
+        [
+            "96",
+            "Soulsmite gauntlets",
+            "M136"
+        ],
+        [
+            "97",
+            "Talisman of undead mastery",
+            "M188"
+        ],
+        [
+            "98",
+            "Third eye clarity",
+            "M141"
+        ],
+        [
+            "99",
+            "Adamantine dagger",
+            "D226"
+        ],
+        [
+            "100",
+            "Adamantine battleaxe",
+            "D226"
+        ]
+    ],
+    "8": [
+        [
+            "1",
+            "Brooch of avoidance",
+            "M82"
+        ],
+        [
+            "2",
+            "Caster's shield",
+            "D221"
+        ],
+        [
+            "3",
+            "Chime of harmonic agony",
+            "M154"
+        ],
+        [
+            "4",
+            "Gloves of the uldra savant",
+            "M107"
+        ],
+        [
+            "5",
+            "Hexbands",
+            "M112"
+        ],
+        [
+            "6",
+            "Orb of mental renewal",
+            "M167"
+        ],
+        [
+            "7",
+            "Pipes of frenzied revelry [R]",
+            "M168"
+        ],
+        [
+            "8",
+            "Rapidstrike bracers",
+            "M119"
+        ],
+        [
+            "9",
+            "Rod of bodily restoration",
+            "M173"
+        ],
+        [
+            "10",
+            "Summoner's totem",
+            "M187"
+        ],
+        [
+            "11",
+            "Vanguard treads",
+            "M145"
+        ],
+        [
+            "12",
+            "Bracers of the blast barrier",
+            "M80"
+        ],
+        [
+            "13",
+            "Eyes of expanded vision",
+            "M98"
+        ],
+        [
+            "14",
+            "Formless vest",
+            "M100"
+        ],
+        [
+            "15",
+            "Hellcat gauntlets",
+            "M111"
+        ],
+        [
+            "16",
+            "Rags of restraint",
+            "M119"
+        ],
+        [
+            "17",
+            "Skirmisher boots",
+            "M136"
+        ],
+        [
+            "18",
+            "Domain draught",
+            "M156"
+        ],
+        [
+            "19",
+            "Mask of blood",
+            "M115"
+        ],
+        [
+            "20",
+            "Reins of ascension",
+            "M120"
+        ],
+        [
+            "21",
+            "Spellmight bracers",
+            "M137"
+        ],
+        [
+            "22",
+            "Survival pouch",
+            "M187"
+        ],
+        [
+            "23",
+            "Torc of the titans",
+            "M143"
+        ],
+        [
+            "24",
+            "Dragonhide plate",
+            "D220"
+        ],
+        [
+            "25",
+            "Crystal of adamant armor, greater",
+            "M24"
+        ],
+        [
+            "26",
+            "Crystal of adamant weaponry, greater",
+            "M64"
+        ],
+        [
+            "27",
+            "Badge of glory [SP]",
+            "M214"
+        ],
+        [
+            "28",
+            "Bow of the wintermoon [R]",
+            "M48"
+        ],
+        [
+            "29",
+            "Hair shirt of suffering",
+            "M109"
+        ],
+        [
+            "30",
+            "Scout's headband",
+            "M132"
+        ],
+        [
+            "31",
+            "Mithralmist shirt",
+            "M20"
+        ],
+        [
+            "32",
+            "Bag of flames",
+            "M151"
+        ],
+        [
+            "33",
+            "Crystal of alacrity [SP]",
+            "M195"
+        ],
+        [
+            "34",
+            "Dragon's draught, bronze",
+            "M157"
+        ],
+        [
+            "35",
+            "Dragon's draught, green",
+            "M157"
+        ],
+        [
+            "36",
+            "Dust of disappearance",
+            "D255"
+        ],
+        [
+            "37",
+            "Finned gauntlets",
+            "M100"
+        ],
+        [
+            "38",
+            "Lens of detection",
+            "D261"
+        ],
+        [
+            "39",
+            "Lockpicking ring",
+            "M114"
+        ],
+        [
+            "40",
+            "Mask of mastery [SP]",
+            "M193"
+        ],
+        [
+            "41",
+            "Quicksilver boots",
+            "M119"
+        ],
+        [
+            "42",
+            "Radiant sphere",
+            "M172"
+        ],
+        [
+            "43",
+            "Raptor's mask [SP]",
+            "M210"
+        ],
+        [
+            "44",
+            "Ring of mystic healing",
+            "M126"
+        ],
+        [
+            "45",
+            "Rod of escape",
+            "M173"
+        ],
+        [
+            "46",
+            "Shard of the sun [R]",
+            "M185"
+        ],
+        [
+            "47",
+            "Sleeping spike",
+            "M185"
+        ],
+        [
+            "48",
+            "True strike gauntlets",
+            "M144"
+        ],
+        [
+            "49",
+            "Belt of ultimate athleticism",
+            "M75"
+        ],
+        [
+            "50",
+            "Enveloping pit [R]",
+            "M159"
+        ],
+        [
+            "51",
+            "Mirror of suggestion",
+            "M165"
+        ],
+        [
+            "52",
+            "Mithral bells",
+            "M117"
+        ],
+        [
+            "53",
+            "Rending gauntlets",
+            "M121"
+        ],
+        [
+            "54",
+            "Shadow maniple",
+            "M133"
+        ],
+        [
+            "55",
+            "Figurine of wondrous power, silver raven",
+            "D256"
+        ],
+        [
+            "56",
+            "Scroll of freedom (A)",
+            "P233"
+        ],
+        [
+            "57",
+            "Scroll of heal, mass (D)",
+            "P239"
+        ],
+        [
+            "58",
+            "Amulet of health +2",
+            "D246"
+        ],
+        [
+            "59",
+            "Boots of the unending journey [R]",
+            "M79"
+        ],
+        [
+            "60",
+            "Bracers of accuracy",
+            "M79"
+        ],
+        [
+            "61",
+            "Bracers of armor +2",
+            "D250"
+        ],
+        [
+            "62",
+            "Bracers of repulsion",
+            "M81"
+        ],
+        [
+            "63",
+            "Cloak of Charisma +2",
+            "D253"
+        ],
+        [
+            "64",
+            "Cloak of resistance +2",
+            "D253"
+        ],
+        [
+            "65",
+            "Cognizance crystal, 3 points",
+            "M154"
+        ],
+        [
+            "66",
+            "Crystal of mind cloaking, lesser",
+            "M25"
+        ],
+        [
+            "67",
+            "Crystal of return, greater",
+            "M65"
+        ],
+        [
+            "68",
+            "Dragon mask",
+            "M94"
+        ],
+        [
+            "69",
+            "Gauntlets of ghost fighting [SP]",
+            "M216"
+        ],
+        [
+            "70",
+            "Gauntlets of ogre power",
+            "D257"
+        ],
+        [
+            "71",
+            "Gauntlets of the talon [R]",
+            "M103"
+        ],
+        [
+            "72",
+            "Gloves of arrow snaring",
+            "D257"
+        ],
+        [
+            "73",
+            "Gloves of Dexterity +2",
+            "D257"
+        ],
+        [
+            "74",
+            "Glyph seal, greater",
+            "M161"
+        ],
+        [
+            "75",
+            "Goggles of the golden sun [SP]",
+            "M205"
+        ],
+        [
+            "76",
+            "Headband of intellect +2",
+            "D258"
+        ],
+        [
+            "77",
+            "Ioun stone, clear spindle",
+            "D260"
+        ],
+        [
+            "78",
+            "Keoghtom's ointment",
+            "D261"
+        ],
+        [
+            "79",
+            "Mask of mental armor",
+            "M115"
+        ],
+        [
+            "80",
+            "Mask of the tiger [SP]",
+            "M200"
+        ],
+        [
+            "81",
+            "Necklace of warning",
+            "M118"
+        ],
+        [
+            "82",
+            "Nolzur's marvelous pigments",
+            "D263"
+        ],
+        [
+            "83",
+            "Pearl of power, 2nd-level spell",
+            "D263"
+        ],
+        [
+            "84",
+            "Pendant of joy",
+            "M118"
+        ],
+        [
+            "85",
+            "Periapt of Wisdom +2",
+            "D263"
+        ],
+        [
+            "86",
+            "Ring of counterspells",
+            "D230"
+        ],
+        [
+            "87",
+            "Rod of silence",
+            "M175"
+        ],
+        [
+            "88",
+            "Rod of sure striking",
+            "M175"
+        ],
+        [
+            "89",
+            "Scry shroud",
+            "M133"
+        ],
+        [
+            "90",
+            "Stone salve",
+            "D267"
+        ],
+        [
+            "91",
+            "Stormfire ring [SP]",
+            "M206"
+        ],
+        [
+            "92",
+            "Surcoat of valor",
+            "M139"
+        ],
+        [
+            "93",
+            "Torc of power preservation",
+            "M143"
+        ],
+        [
+            "94",
+            "Veil of storms [SP]",
+            "M213"
+        ],
+        [
+            "95",
+            "Vest of resistance +2",
+            "M147"
+        ],
+        [
+            "96",
+            "Wilding clasp",
+            "M190"
+        ],
+        [
+            "100",
+            "+2 armor/shield",
+            "M282"
+        ]
+    ],
+    "9": [
+        [
+            "1",
+            "Slaying arrow, greater",
+            "D228"
+        ],
+        [
+            "2",
+            "Armbands of might",
+            "M72"
+        ],
+        [
+            "3",
+            "Doss lute",
+            "M156"
+        ],
+        [
+            "4",
+            "Crystal echoblade",
+            "M49"
+        ],
+        [
+            "5",
+            "Elven chain",
+            "D220"
+        ],
+        [
+            "6",
+            "Barricade buckler",
+            "M16"
+        ],
+        [
+            "7",
+            "Circlet of wild surging",
+            "M87"
+        ],
+        [
+            "9",
+            "Wand of cure critical wounds (10 charges)",
+            "P215"
+        ],
+        [
+            "10",
+            "Wand of death ward (10 charges)",
+            "P217"
+        ],
+        [
+            "11",
+            "Wand of freedom of movement (10 charges)",
+            "P233"
+        ],
+        [
+            "12",
+            "Wand of greater invisibility (10 charges)",
+            "P245"
+        ],
+        [
+            "13",
+            "Wand of ice storm (10 charges)",
+            "P243"
+        ],
+        [
+            "14",
+            "Wand of repair critical damage [SC] (10 charges)",
+            "S173"
+        ],
+        [
+            "15",
+            "White cloak of the spider",
+            "M148"
+        ],
+        [
+            "16",
+            "Shatterspike",
+            "D228"
+        ],
+        [
+            "17",
+            "Living chain",
+            "M53"
+        ],
+        [
+            "18",
+            "Necklace of fireballs type III",
+            "D2263"
+        ],
+        [
+            "19",
+            "Strand of lightning",
+            "M187"
+        ],
+        [
+            "20",
+            "Sacred scabbard",
+            "M183"
+        ],
+        [
+            "21",
+            "Thorn pouch",
+            "M188"
+        ],
+        [
+            "22",
+            "Eternal wand of blur",
+            "P206"
+        ],
+        [
+            "23",
+            "Eternal wand of cure moderate wounds",
+            "P216"
+        ],
+        [
+            "24",
+            "Eternal wand of invisibility",
+            "P245"
+        ],
+        [
+            "25",
+            "Eternal wand of mirror image",
+            "P254"
+        ],
+        [
+            "26",
+            "Eternal wand of repair moderate damage [SC]",
+            "S173"
+        ],
+        [
+            "27",
+            "Eternal wand of see invisibility",
+            "P275"
+        ],
+        [
+            "28",
+            "Eternal wand of snake's swiftness [SC]",
+            "S193"
+        ],
+        [
+            "29",
+            "Eternal wand of web",
+            "P301"
+        ],
+        [
+            "30",
+            "Scroll of greater restoration (D)",
+            "P272"
+        ],
+        [
+            "31",
+            "Aroma of curdled death",
+            "M150"
+        ],
+        [
+            "32",
+            "Barbs of retribution [SP]",
+            "M203"
+        ],
+        [
+            "33",
+            "Belt of the champion [R]",
+            "M73"
+        ],
+        [
+            "34",
+            "Circlet of persuasion",
+            "D252"
+        ],
+        [
+            "35",
+            "Dragon's draught, blue",
+            "M157"
+        ],
+        [
+            "36",
+            "Dragon's draught, silver",
+            "M157"
+        ],
+        [
+            "37",
+            "Gem of the glitterdepth [R]",
+            "M104"
+        ],
+        [
+            "38",
+            "Goggles of day",
+            "M107"
+        ],
+        [
+            "39",
+            "Helm of the purple plume [R]",
+            "M111"
+        ],
+        [
+            "40",
+            "Mask of lies",
+            "M115"
+        ],
+        [
+            "41",
+            "Ring of vengeance",
+            "M128"
+        ],
+        [
+            "43",
+            "Wand of dispel magic (CL 10th, 10 charges)",
+            "P223"
+        ],
+        [
+            "45",
+            "Wand of fireball (CL 10th, 10 charges)",
+            "P231"
+        ],
+        [
+            "47",
+            "Wand of lightning bolt (CL 10th, 10 charges)",
+            "P248"
+        ],
+        [
+            "48",
+            "Wand of searing light (CL 10th, 10 charges)",
+            "P275"
+        ],
+        [
+            "49",
+            "Shield of the severed hand [R]",
+            "M22"
+        ],
+        [
+            "50",
+            "Bowstaff",
+            "M48"
+        ],
+        [
+            "51",
+            "Personal oasis",
+            "M168"
+        ],
+        [
+            "52",
+            "Bladed crossbow",
+            "M47"
+        ],
+        [
+            "53",
+            "Slippers of spider climbing",
+            "D266"
+        ],
+        [
+            "54",
+            "Scroll of teleportation circle (A)",
+            "P293"
+        ],
+        [
+            "55",
+            "Incense of meditation",
+            "D260"
+        ],
+        [
+            "56",
+            "Amulet of fortune prevailing",
+            "M69"
+        ],
+        [
+            "57",
+            "Bag of holding type II",
+            "D248"
+        ],
+        [
+            "58",
+            "Belt of hidden pouches",
+            "M74"
+        ],
+        [
+            "59",
+            "Bolt shirt",
+            "M75"
+        ],
+        [
+            "60",
+            "Boots of swift passage",
+            "M78"
+        ],
+        [
+            "61",
+            "Boots of tremorsense",
+            "M79"
+        ],
+        [
+            "62",
+            "Bracers of aerial combat [SP]",
+            "M194"
+        ],
+        [
+            "63",
+            "Bracers of archery, lesser",
+            "D250"
+        ],
+        [
+            "64",
+            "Bracers of blinding strike [SP]",
+            "M198"
+        ],
+        [
+            "65",
+            "Bracers of retaliation",
+            "M82"
+        ],
+        [
+            "66",
+            "Circlet of mages",
+            "M86"
+        ],
+        [
+            "67",
+            "Cloak of soulbound resistance",
+            "M88"
+        ],
+        [
+            "68",
+            "Collar of healing",
+            "M89"
+        ],
+        [
+            "69",
+            "Crimson dragonhide bracers",
+            "M90"
+        ],
+        [
+            "70",
+            "Crystal of arrow deflection, greater",
+            "M25"
+        ],
+        [
+            "71",
+            "Crystal of glancing blows, greater",
+            "M25"
+        ],
+        [
+            "72",
+            "Crystal of lifekeeping, greater",
+            "M25"
+        ],
+        [
+            "73",
+            "Truedeath crystal, lesser",
+            "M66"
+        ],
+        [
+            "74",
+            "Deathstrike bracers",
+            "M93"
+        ],
+        [
+            "75",
+            "Diamondskin decanter",
+            "M156"
+        ],
+        [
+            "76",
+            "Dragonscale cloak [R]",
+            "M95"
+        ],
+        [
+            "77",
+            "Fiendslayer crystal, greater",
+            "M65"
+        ],
+        [
+            "78",
+            "Fiery tunic",
+            "M99"
+        ],
+        [
+            "79",
+            "Gauntlets of eldritch energy",
+            "M102"
+        ],
+        [
+            "80",
+            "Gauntlets of lassitude",
+            "M103"
+        ],
+        [
+            "81",
+            "Ghost shroud",
+            "M104"
+        ],
+        [
+            "82",
+            "Hand of the oak father",
+            "M109"
+        ],
+        [
+            "83",
+            "Helm of gazes",
+            "M111"
+        ],
+        [
+            "84",
+            "Horn of resilience [SP]",
+            "M208"
+        ],
+        [
+            "85",
+            "Immovable rod",
+            "D235"
+        ],
+        [
+            "86",
+            "Ioun stone, dusty rose prism",
+            "D260"
+        ],
+        [
+            "87",
+            "Ki straps",
+            "M113"
+        ],
+        [
+            "88",
+            "Mask of silent trickery",
+            "M116"
+        ],
+        [
+            "89",
+            "Noble pennon",
+            "M166"
+        ],
+        [
+            "90",
+            "Orb of blinding",
+            "M167"
+        ],
+        [
+            "91",
+            "Platinum helm [R]",
+            "M119"
+        ],
+        [
+            "92",
+            "Portable foxhole",
+            "M169"
+        ],
+        [
+            "93",
+            "Reciprocal bracers",
+            "M120"
+        ],
+        [
+            "94",
+            "Revelation crystal, greater",
+            "M66"
+        ],
+        [
+            "95",
+            "Ring of arming",
+            "M122"
+        ],
+        [
+            "96",
+            "Ring of master artifice, lesser",
+            "M125"
+        ],
+        [
+            "97",
+            "Spider fang",
+            "M60"
+        ],
+        [
+            "98",
+            "Vampire torc",
+            "M144"
+        ],
+        [
+            "99",
+            "Vestments of ebonsilk [R]",
+            "M147"
+        ],
+        [
+            "100",
+            "Witchlight reservoir",
+            "M66"
+        ]
+    ],
+    "10": [
+        [
+            "1",
+            "Raptor arrow [R]",
+            "M56"
+        ],
+        [
+            "2",
+            "Ring of the forcewall",
+            "M123"
+        ],
+        [
+            "3",
+            "Gauntlets of the blood-lord [R]",
+            "M101"
+        ],
+        [
+            "4",
+            "Hooked hammer of the hearthfire [R]",
+            "M52"
+        ],
+        [
+            "5",
+            "Rhino hide",
+            "D220"
+        ],
+        [
+            "6",
+            "Helm of comprehend languages and read magic",
+            "D259"
+        ],
+        [
+            "7",
+            "Map of unseen lands [R]",
+            "M164"
+        ],
+        [
+            "8",
+            "Vest of escape",
+            "D268"
+        ],
+        [
+            "9",
+            "Galeb duhr hammer",
+            "M52"
+        ],
+        [
+            "10",
+            "Assassin whip",
+            "M46"
+        ],
+        [
+            "11",
+            "Trident of serenity",
+            "M62"
+        ],
+        [
+            "12",
+            "Manticore greatsword",
+            "M53"
+        ],
+        [
+            "13",
+            "Eversmoking bottle",
+            "D256"
+        ],
+        [
+            "14",
+            "Murlynd's spoon",
+            "D262"
+        ],
+        [
+            "15",
+            "Necklace of fireballs type IV",
+            "D263"
+        ],
+        [
+            "16",
+            "Boots of striding and springing",
+            "D250"
+        ],
+        [
+            "17",
+            "Dragon's draught, gold",
+            "M157"
+        ],
+        [
+            "18",
+            "Dragon's draught, red",
+            "M157"
+        ],
+        [
+            "19",
+            "Eyes of truth",
+            "M99"
+        ],
+        [
+            "20",
+            "Rope of climbing, superior",
+            "M176"
+        ],
+        [
+            "21",
+            "Tabard of the great crusade [R]",
+            "MHO"
+        ],
+        [
+            "22",
+            "Tome of ancient lore [R]",
+            "M189"
+        ],
+        [
+            "23",
+            "Wind fan",
+            "D268"
+        ],
+        [
+            "24",
+            "Shield of the resolute [R]",
+            "M21"
+        ],
+        [
+            "25",
+            "Spined shield",
+            "D221"
+        ],
+        [
+            "26",
+            "Helm of glorious recovery",
+            "M111"
+        ],
+        [
+            "27",
+            "Helm of heroes",
+            "M111"
+        ],
+        [
+            "28",
+            "Staff of the unyielding oak [R]",
+            "M60"
+        ],
+        [
+            "29",
+            "Claw gloves [SP]",
+            "M199"
+        ],
+        [
+            "30",
+            "Necklace of fireballs type V",
+            "D263"
+        ],
+        [
+            "31",
+            "Amulet of emergency healing",
+            "M68"
+        ],
+        [
+            "32",
+            "Amulet of mighty fists +1",
+            "D246"
+        ],
+        [
+            "33",
+            "Amulet of wordtwisting",
+            "M71"
+        ],
+        [
+            "34",
+            "Belt of priestly might",
+            "M74"
+        ],
+        [
+            "35",
+            "Boots of big stepping",
+            "M76"
+        ],
+        [
+            "36",
+            "Boots of sidestepping",
+            "M78"
+        ],
+        [
+            "37",
+            "Cloak of the salamander",
+            "M88"
+        ],
+        [
+            "38",
+            "Conduit rod",
+            "M155"
+        ],
+        [
+            "33",
+            "Cornucopia of the needful [R]",
+            "M155"
+        ],
+        [
+            "40",
+            "Crystal of arcane steel, greater",
+            "M64"
+        ],
+        [
+            "41",
+            "Crystal of life drinking, greater",
+            "M64"
+        ],
+        [
+            "42",
+            "Deathguardian bracers",
+            "M93"
+        ],
+        [
+            "43",
+            "Empowered spellshard, 3rd-level spell",
+            "M96"
+        ],
+        [
+            "44",
+            "Executioner's hood [R]",
+            "M97"
+        ],
+        [
+            "45",
+            "Farspeaking amulet",
+            "M99"
+        ],
+        [
+            "46",
+            "Gauntlets of weaponry arcane",
+            "M104"
+        ],
+        [
+            "47",
+            "Globe of sunlight",
+            "M161"
+        ],
+        [
+            "48",
+            "Gwaeron's boots",
+            "M109"
+        ],
+        [
+            "49",
+            "Horseshoes of a zephyr",
+            "D260"
+        ],
+        [
+            "50",
+            "Memento magica, 2nd-level spell",
+            "M164"
+        ],
+        [
+            "51",
+            "Periapt of the sullen sea [SP]",
+            "M205"
+        ],
+        [
+            "52",
+            "Crystal of energy assault, greater",
+            "M64"
+        ],
+        [
+            "53",
+            "Demolition crystal, greater",
+            "M65"
+        ],
+        [
+            "54",
+            "Phoenix ash threat, greater",
+            "M65"
+        ],
+        [
+            "55",
+            "Pipes of haunting",
+            "D264"
+        ],
+        [
+            "56",
+            "Psychoactive skin of the celestial",
+            "M169"
+        ],
+        [
+            "57",
+            "Psychoactive skin of ectoplasmic armor",
+            "M170"
+        ],
+        [
+            "58",
+            "Psychoactive skin of the fiend",
+            "M170"
+        ],
+        [
+            "59",
+            "Ring of adamantine touch",
+            "M121"
+        ],
+        [
+            "60",
+            "Ring of essentia",
+            "M123"
+        ],
+        [
+            "61",
+            "Ring of thunderclaps",
+            "M127"
+        ],
+        [
+            "62",
+            "Ring of water breathing",
+            "M128"
+        ],
+        [
+            "63",
+            "Rod of surprises",
+            "M58"
+        ],
+        [
+            "64",
+            "Rod of transposition",
+            "M175"
+        ],
+        [
+            "65",
+            "Rubicund frenzy, greater",
+            "M26"
+        ],
+        [
+            "66",
+            "Shackles of silence",
+            "M184"
+        ],
+        [
+            "67",
+            "Shirt of wraith stalking",
+            "M216"
+        ],
+        [
+            "68",
+            "SP Spectral dagger",
+            "M59"
+        ],
+        [
+            "69",
+            "Strongarm bracers",
+            "M139"
+        ],
+        [
+            "70",
+            "Tabard of the disembodied [R]",
+            "M140"
+        ],
+        [
+            "71",
+            "Torc of heroic sacrifice",
+            "M143"
+        ],
+        [
+            "72",
+            "Toxic gloves",
+            "M144"
+        ],
+        [
+            "73",
+            "Transposer cloak",
+            "M144"
+        ],
+        [
+            "74",
+            "Unicorn pendant",
+            "M144"
+        ],
+        [
+            "77",
+            "Scroll of raise dead (D)",
+            "P268"
+        ],
+        [
+            "78",
+            "Shield of vigor [SP]",
+            "M196"
+        ],
+        [
+            "79",
+            "Wrapped tower",
+            "M24"
+        ],
+        [
+            "80",
+            "Skull plaque",
+            "M136"
+        ],
+        [
+            "81",
+            "Gloves of swimming and climbing",
+            "D257"
+        ],
+        [
+            "82",
+            "Bag of tricks, tan",
+            "D248"
+        ],
+        [
+            "83",
+            "Gauntlets of the blazing arc",
+            "M101"
+        ],
+        [
+            "84",
+            "Whip of webs",
+            "M63"
+        ],
+        [
+            "85",
+            "Dagger of defiance",
+            "M50"
+        ],
+        [
+            "86",
+            "Scorpion kama [SP]",
+            "M201"
+        ],
+        [
+            "87",
+            "Viperblade",
+            "M63"
+        ],
+        [
+            "88",
+            "Death spike",
+            "M50"
+        ],
+        [
+            "89",
+            "Stonereaver",
+            "M60"
+        ],
+        [
+            "90",
+            "Swordbow, light",
+            "M61"
+        ],
+        [
+            "91",
+            "Swordbow",
+            "M61"
+        ],
+        [
+            "92",
+            "Circlet of blasting, minor",
+            "D252"
+        ],
+        [
+            "93",
+            "Gauntlet of infinite blades",
+            "M101"
+        ],
+        [
+            "94",
+            "Greater piwafwi",
+            "M108"
+        ],
+        [
+            "95",
+            "Helm of wounding sight [SP]",
+            "M193"
+        ],
+        [
+            "96",
+            "Horn of goodness/evil",
+            "D259"
+        ],
+        [
+            "97",
+            "Monocle of perusal",
+            "M117"
+        ],
+        [
+            "98",
+            "Phoenix helm",
+            "M118"
+        ],
+        [
+            "99",
+            "Phylactery of virtue [SP]",
+            "M215"
+        ],
+        [
+            "100",
+            "Robe of retaliation",
+            "M130"
+        ]
+    ],
+    "11": [
+        [
+            "1",
+            "Gauntlets of destruction [SP]",
+            "M192"
+        ],
+        [
+            "3",
+            "Wand of stoneskin (10 charges)",
+            "P284"
+        ],
+        [
+            "4",
+            "Swordbow, great",
+            "M61"
+        ],
+        [
+            "5",
+            "Boots of skating",
+            "M78"
+        ],
+        [
+            "6",
+            "Gloves of endless javelins [SP]",
+            "M194"
+        ],
+        [
+            "7",
+            "Gloves of flame",
+            "M105"
+        ],
+        [
+            "8",
+            "Robe of useful items",
+            "D266"
+        ],
+        [
+            "9",
+            "Tomebound eye of Boccob",
+            "M190"
+        ],
+        [
+            "10",
+            "Veil of whispers [SP]",
+            "M213"
+        ],
+        [
+            "11",
+            "The fist",
+            "M51"
+        ],
+        [
+            "12",
+            "Armband of maximized healing",
+            "M72"
+        ],
+        [
+            "13",
+            "Folding boat",
+            "D249"
+        ],
+        [
+            "14",
+            "Cloak of the manta ray",
+            "D253"
+        ],
+        [
+            "15",
+            "Bottle of air",
+            "D250"
+        ],
+        [
+            "16",
+            "Morningstar of the many [R]",
+            "M54"
+        ],
+        [
+            "17",
+            "Rod of defiance",
+            "M56"
+        ],
+        [
+            "18",
+            "Stunshot sling",
+            "M60"
+        ],
+        [
+            "19",
+            "Bag of holding type III",
+            "D248"
+        ],
+        [
+            "20",
+            "Periapt of health",
+            "D263"
+        ],
+        [
+            "21",
+            "Boots of levitation",
+            "D250"
+        ],
+        [
+            "22",
+            "Dreaming blindfold",
+            "M96"
+        ],
+        [
+            "23",
+            "Harp of charming",
+            "D258"
+        ],
+        [
+            "24",
+            "Lore gem",
+            "M114"
+        ],
+        [
+            "25",
+            "Ring of mystic defiance",
+            "M125"
+        ],
+        [
+            "26",
+            "Ring of mystic fire",
+            "M125"
+        ],
+        [
+            "27",
+            "Ring of mystic lightning",
+            "M126"
+        ],
+        [
+            "28",
+            "Tome of the stilled tongue [R]",
+            "M189"
+        ],
+        [
+            "31",
+            "Amulet of natural armor +2",
+            "D246"
+        ],
+        [
+            "32",
+            "Belt of the wide earth [SP]",
+            "M204"
+        ],
+        [
+            "33",
+            "Blast globes",
+            "M152"
+        ],
+        [
+            "34",
+            "Chasuble of fell power",
+            "M85"
+        ],
+        [
+            "35",
+            "Cloak of stone",
+            "M88"
+        ],
+        [
+            "36",
+            "Crystal of energy assault, greater",
+            "M64"
+        ],
+        [
+            "37",
+            "Flesh ring of scorn",
+            "M100"
+        ],
+        [
+            "38",
+            "Gauntlet of Gruumsh",
+            "M101"
+        ],
+        [
+            "39",
+            "Ghost net",
+            "M52"
+        ],
+        [
+            "40",
+            "Gloves of the balanced hand",
+            "M105"
+        ],
+        [
+            "41",
+            "Gloves of incarnum theft",
+            "M106"
+        ],
+        [
+            "42",
+            "Golem manual, flesh",
+            "D258"
+        ],
+        [
+            "43",
+            "Hand of glory",
+            "D258"
+        ],
+        [
+            "44",
+            "Horned helm",
+            "M112"
+        ],
+        [
+            "47",
+            "Ioun stone, deep red sphere",
+            "D260"
+        ],
+        [
+            "50",
+            "Ioun stone, incandescent blue sphere",
+            "D260"
+        ],
+        [
+            "53",
+            "Ioun stone, pale blue rhomboid",
+            "D260"
+        ],
+        [
+            "56",
+            "Ioun stone, pink and green sphere",
+            "D260"
+        ],
+        [
+            "59",
+            "Ioun stone, pink rhomboid",
+            "D260"
+        ],
+        [
+            "62",
+            "Ioun stone, scarlet and blue sphere",
+            "D260"
+        ],
+        [
+            "63",
+            "Iron ward diamond, greater",
+            "M26"
+        ],
+        [
+            "64",
+            "Lightning tunic",
+            "M114"
+        ],
+        [
+            "65",
+            "Mantle of the predator [SP]",
+            "M200"
+        ],
+        [
+            "66",
+            "Medallion of aerial defense [SP]",
+            "M195"
+        ],
+        [
+            "67",
+            "Mesmerist's gloves",
+            "M116"
+        ],
+        [
+            "68",
+            "Mindvault",
+            "M117"
+        ],
+        [
+            "69",
+            "Psionatrix",
+            "M119"
+        ],
+        [
+            "70",
+            "Ring of antivenom",
+            "M121"
+        ],
+        [
+            "71",
+            "Ring of entropic deflection",
+            "M123"
+        ],
+        [
+            "72",
+            "Ring of mind shielding",
+            "D232"
+        ],
+        [
+            "76",
+            "Ring of protection +2",
+            "D232"
+        ],
+        [
+            "77",
+            "Runestaff of charming",
+            "M177"
+        ],
+        [
+            "78",
+            "Scentblinder",
+            "M132"
+        ],
+        [
+            "79",
+            "Scrolls of uncertain provenance [R]",
+            "M183"
+        ],
+        [
+            "80",
+            "Shirt of the leech",
+            "M135"
+        ],
+        [
+            "81",
+            "Talisman of undying fortitude",
+            "M188"
+        ],
+        [
+            "82",
+            "Third eye penetrate",
+            "M142"
+        ],
+        [
+            "83",
+            "Vambraces of warding",
+            "M144"
+        ],
+        [
+            "100",
+            "+2 weapon",
+            "M282"
+        ]
+    ],
+    "12": [
+        [
+            "1",
+            "Canaith mandolin",
+            "M153"
+        ],
+        [
+            "2",
+            "Deck of illusions",
+            "D254"
+        ],
+        [
+            "3",
+            "Necklace of fireballs type VI",
+            "D263"
+        ],
+        [
+            "4",
+            "Mace of the dark children",
+            "M53"
+        ],
+        [
+            "5",
+            "Millennial chainmail [R]",
+            "M20"
+        ],
+        [
+            "6",
+            "Dragonfang gauntlets",
+            "M95"
+        ],
+        [
+            "7",
+            "Owlfeather armor",
+            "M20"
+        ],
+        [
+            "8",
+            "Fanged mask",
+            "M99"
+        ],
+        [
+            "9",
+            "Dagger of venom",
+            "D226"
+        ],
+        [
+            "10",
+            "Warlock's scepter",
+            "M63"
+        ],
+        [
+            "11",
+            "Blazing skylance",
+            "M48"
+        ],
+        [
+            "12",
+            "Forceful skylance",
+            "M52"
+        ],
+        [
+            "13",
+            "Axe of ancestral virtue [R]",
+            "M46"
+        ],
+        [
+            "14",
+            "Candle of invocation",
+            "D251"
+        ],
+        [
+            "15",
+            "Runestaff of fire",
+            "M180"
+        ],
+        [
+            "16",
+            "Crown of flames [SP]",
+            "M209"
+        ],
+        [
+            "17",
+            "Ring of force shield",
+            "D232"
+        ],
+        [
+            "18",
+            "Ring of the ram",
+            "D232"
+        ],
+        [
+            "19",
+            "Necklace of fireballs type VII",
+            "D263"
+        ],
+        [
+            "20",
+            "Ankh of ascension",
+            "M71"
+        ],
+        [
+            "21",
+            "Battle bridle",
+            "M151"
+        ],
+        [
+            "22",
+            "Blindfold of true darkness",
+            "M75"
+        ],
+        [
+            "23",
+            "Bracers of armor +3",
+            "D250"
+        ],
+        [
+            "24",
+            "Cat's-eye brooch",
+            "M84"
+        ],
+        [
+            "25",
+            "Cloak of resistance +3",
+            "D253"
+        ],
+        [
+            "26",
+            "Cognizance crystal, 5 points",
+            "M154"
+        ],
+        [
+            "27",
+            "Daern's instant tent",
+            "M155"
+        ],
+        [
+            "28",
+            "Decanter of endless water",
+            "D254"
+        ],
+        [
+            "29",
+            "Helm of the hunter [SP]",
+            "M194"
+        ],
+        [
+            "30",
+            "Metamagic rod, Empower, lesser",
+            "D236"
+        ],
+        [
+            "31",
+            "Metamagic rod, Reach, lesser",
+            "M165"
+        ],
+        [
+            "32",
+            "Mirror of time hop",
+            "M165"
+        ],
+        [
+            "33",
+            "Necklace of adaptation",
+            "D263"
+        ],
+        [
+            "34",
+            "Pearl of power, 3rd-level spell",
+            "D263"
+        ],
+        [
+            "35",
+            "Retributive amulet",
+            "M121"
+        ],
+        [
+            "36",
+            "Rod of the recluse [R]",
+            "M57"
+        ],
+        [
+            "37",
+            "Sandals of the light step [SP]",
+            "M198"
+        ],
+        [
+            "38",
+            "Scepter of the netherworld",
+            "M183"
+        ],
+        [
+            "39",
+            "Shirt of bone",
+            "M134"
+        ],
+        [
+            "40",
+            "Shirt of chains",
+            "M134"
+        ],
+        [
+            "41",
+            "Shirt of the treant",
+            "M136"
+        ],
+        [
+            "42",
+            "Stunning spike",
+            "M187"
+        ],
+        [
+            "43",
+            "Vest of resistance +3",
+            "M147"
+        ],
+        [
+            "46",
+            "+3 armor/shield",
+            "M282"
+        ],
+        [
+            "47",
+            "Dwarf crusher",
+            "M51"
+        ],
+        [
+            "48",
+            "Figurine of wondrous power, serpentine owl",
+            "D256"
+        ],
+        [
+            "49",
+            "Wight hide shield",
+            "M23"
+        ],
+        [
+            "50",
+            "Lion's shield",
+            "D221"
+        ],
+        [
+            "51",
+            "Skewer-of-gnomes [R]",
+            "M59"
+        ],
+        [
+            "52",
+            "Spear of retribution [R]",
+            "M59"
+        ],
+        [
+            "53",
+            "Dawnstar [R]",
+            "M50"
+        ],
+        [
+            "54",
+            "Pick of piercing",
+            "M54"
+        ],
+        [
+            "55",
+            "Sword of virtue beyond reproach [R]",
+            "M61"
+        ],
+        [
+            "56",
+            "Rapier of desperate measures [R]",
+            "M55"
+        ],
+        [
+            "57",
+            "Rapier of unerring direction [R]",
+            "M55"
+        ],
+        [
+            "58",
+            "Sword of mighty thews [R]",
+            "M60"
+        ],
+        [
+            "59",
+            "Strand of prayer beads, lesser",
+            "D267"
+        ],
+        [
+            "60",
+            "Angelhelm",
+            "M71"
+        ],
+        [
+            "61",
+            "Runestaff of the assassin",
+            "M177"
+        ],
+        [
+            "62",
+            "Bag of holding type IV",
+            "D248"
+        ],
+        [
+            "63",
+            "Bracers of wind",
+            "M82"
+        ],
+        [
+            "64",
+            "Crystal mask of detection",
+            "M90"
+        ],
+        [
+            "65",
+            "Crystal mask of discernment",
+            "M90"
+        ],
+        [
+            "66",
+            "Crystal mask of dread",
+            "M91"
+        ],
+        [
+            "67",
+            "Crystal mask of mindarmor",
+            "M92"
+        ],
+        [
+            "68",
+            "Crystal mask of psionic craft",
+            "M92"
+        ],
+        [
+            "69",
+            "Crystal mask of visual insight",
+            "M92"
+        ],
+        [
+            "70",
+            "Crystal of mind cloaking, greater",
+            "M25"
+        ],
+        [
+            "71",
+            "Druid's vestment",
+            "D268"
+        ],
+        [
+            "72",
+            "Eyes of power leech",
+            "M98"
+        ],
+        [
+            "73",
+            "Fiendhelm",
+            "M99"
+        ],
+        [
+            "74",
+            "Figurine of wondrous power, bronze griffon",
+            "D256"
+        ],
+        [
+            "75",
+            "Figurine of wondrous power, ebony fly",
+            "D256"
+        ],
+        [
+            "76",
+            "Ghoul gauntlets",
+            "M104"
+        ],
+        [
+            "77",
+            "Glove of storing",
+            "D257"
+        ],
+        [
+            "78",
+            "Ioun stone, dark blue rhomboid",
+            "D260"
+        ],
+        [
+            "79",
+            "Lenses of true form",
+            "M113"
+        ],
+        [
+            "80",
+            "Mind blade gauntlet, lesser",
+            "M117"
+        ],
+        [
+            "81",
+            "Psychoactive skin of power damping",
+            "M171"
+        ],
+        [
+            "82",
+            "Ring of avoidance",
+            "M122"
+        ],
+        [
+            "83",
+            "Ring of improved climbing",
+            "D230"
+        ],
+        [
+            "84",
+            "Ring of improved jumping",
+            "D232"
+        ],
+        [
+            "85",
+            "Ring of improved swimming",
+            "D233"
+        ],
+        [
+            "86",
+            "Ring of self-sufficiency",
+            "M126"
+        ],
+        [
+            "87",
+            "Ring of soulbound protection",
+            "M127"
+        ],
+        [
+            "88",
+            "Robe of mysterious conjuration",
+            "M130"
+        ],
+        [
+            "89",
+            "Rod of reversal [R]",
+            "M174"
+        ],
+        [
+            "90",
+            "Rod of undead mastery",
+            "M175"
+        ],
+        [
+            "91",
+            "Sandals of springing",
+            "M131"
+        ],
+        [
+            "92",
+            "Soul anchor",
+            "M185"
+        ],
+        [
+            "93",
+            "Soulstone",
+            "M137"
+        ],
+        [
+            "94",
+            "Stone horse, courser",
+            "D267"
+        ],
+        [
+            "95",
+            "Third eye aware",
+            "MHO"
+        ],
+        [
+            "96",
+            "Third eye concentrate",
+            "M141"
+        ],
+        [
+            "97",
+            "Third eye gather",
+            "M141"
+        ],
+        [
+            "98",
+            "Third eye powerthieve",
+            "M142"
+        ],
+        [
+            "99",
+            "Truedeath crystal, greater",
+            "M66"
+        ],
+        [
+            "100",
+            "Vest of the master evoker",
+            "M146"
+        ]
+    ],
+    "13": [
+        [
+            "1",
+            "Cape of the mountebank",
+            "D252"
+        ],
+        [
+            "2",
+            "Trident of warning",
+            "D229"
+        ],
+        [
+            "4",
+            "Foxhide armor",
+            "M18"
+        ],
+        [
+            "5",
+            "Ghoul shell armor",
+            "M18"
+        ],
+        [
+            "7",
+            "Adamantine breastplate",
+            "D219"
+        ],
+        [
+            "8",
+            "Talon scepter [SP]",
+            "M210"
+        ],
+        [
+            "9",
+            "Axe of the sea reavers",
+            "M47"
+        ],
+        [
+            "10",
+            "Metamagic rod, Substitution",
+            "M165"
+        ],
+        [
+            "11",
+            "Rod of metal and mineral detection",
+            "D236"
+        ],
+        [
+            "12",
+            "Rod of cats",
+            "M56"
+        ],
+        [
+            "14",
+            "Storm gauntlets",
+            "M139"
+        ],
+        [
+            "15",
+            "Strand of acid pearls",
+            "M187"
+        ],
+        [
+            "19",
+            "Eternal wand of cure serious wounds",
+            "P216"
+        ],
+        [
+            "20",
+            "Eternal wand of displacement",
+            "P223"
+        ],
+        [
+            "22",
+            "Eternal wand of invisibility sphere",
+            "P245"
+        ],
+        [
+            "25",
+            "Eternal wand of lightning bolt",
+            "P248"
+        ],
+        [
+            "26",
+            "Eternal wand of mass snake's swiftness [SC]",
+            "S193"
+        ],
+        [
+            "27",
+            "Eternal wand of repair serious damage [SC]",
+            "S173"
+        ],
+        [
+            "28",
+            "Ring of animal friendship",
+            "D230"
+        ],
+        [
+            "29",
+            "Amulet of inviolate form",
+            "M69"
+        ],
+        [
+            "31",
+            "Boots of tracklessness",
+            "M79"
+        ],
+        [
+            "32",
+            "Bracers of lightning [SP]",
+            "M206"
+        ],
+        [
+            "33",
+            "Cloak of turn resistance",
+            "M89"
+        ],
+        [
+            "34",
+            "Gauntlets of mindfire",
+            "M103"
+        ],
+        [
+            "35",
+            "Metamagic rod, Enlarge",
+            "D236"
+        ],
+        [
+            "36",
+            "Metamagic rod, Extend",
+            "D236"
+        ],
+        [
+            "37",
+            "Metamagic rod, Sculpting",
+            "M165"
+        ],
+        [
+            "38",
+            "Metamagic rod, Silent",
+            "D236"
+        ],
+        [
+            "39",
+            "Phylactery of undead turning",
+            "D264"
+        ],
+        [
+            "40",
+            "Rod of cancellation",
+            "D234"
+        ],
+        [
+            "42",
+            "Runestaff of eyes",
+            "M178"
+        ],
+        [
+            "43",
+            "Veil of doors [SP]",
+            "M212"
+        ],
+        [
+            "44",
+            "Gauntlet of rust",
+            "D257"
+        ],
+        [
+            "46",
+            "Ring of lightning flashes",
+            "M125"
+        ],
+        [
+            "48",
+            "Belt of battle",
+            "M73"
+        ],
+        [
+            "49",
+            "Blood claw choker",
+            "M203"
+        ],
+        [
+            "51",
+            "SP Boots of speed",
+            "D250"
+        ],
+        [
+            "52",
+            "Dove's harp",
+            "M156"
+        ],
+        [
+            "53",
+            "Flesheater",
+            "M160"
+        ],
+        [
+            "54",
+            "Goggles of night",
+            "D258"
+        ],
+        [
+            "55",
+            "Golem manual, clay",
+            "D258"
+        ],
+        [
+            "56",
+            "Horn of plenty",
+            "M162"
+        ],
+        [
+            "57",
+            "Mantle of second chances",
+            "M115"
+        ],
+        [
+            "58",
+            "Medallion of thoughts",
+            "D262"
+        ],
+        [
+            "59",
+            "Pipes of pain",
+            "D264"
+        ],
+        [
+            "60",
+            "Psychoactive skin of the claw",
+            "M170"
+        ],
+        [
+            "61",
+            "Riding boots",
+            "M121"
+        ],
+        [
+            "64",
+            "Ring of energy resistance, minor",
+            "D232"
+        ],
+        [
+            "66",
+            "Ring of spell-battle",
+            "M127"
+        ],
+        [
+            "68",
+            "Rod of wonder",
+            "D237"
+        ],
+        [
+            "69",
+            "Ruby cincture of immutability",
+            "M131"
+        ],
+        [
+            "70",
+            "Runestaff of entrapment",
+            "M178"
+        ],
+        [
+            "71",
+            "Runestaff of size alteration",
+            "M181"
+        ],
+        [
+            "72",
+            "Shirt of resilience",
+            "M135"
+        ],
+        [
+            "73",
+            "Spare hand",
+            "M137"
+        ],
+        [
+            "75",
+            "Vest of free movement [SP]",
+            "M198"
+        ],
+        [
+            "76",
+            "Wand bracelet",
+            "M147"
+        ],
+        [
+            "77",
+            "Water cloak",
+            "M148"
+        ],
+        [
+            "79",
+            "Winged vest [SP]",
+            "M195"
+        ],
+        [
+            "80",
+            "Serpent armor",
+            "M20"
+        ],
+        [
+            "81",
+            "Hawkfeather armor",
+            "M19"
+        ],
+        [
+            "84",
+            "Scroll of resurrection (D)",
+            "P272"
+        ],
+        [
+            "85",
+            "Chromatic rod [R]",
+            "M49"
+        ],
+        [
+            "86",
+            "Rogue blade",
+            "M58"
+        ],
+        [
+            "87",
+            "Bow of songs",
+            "M48"
+        ],
+        [
+            "88",
+            "Boccob's blessed book",
+            "D249"
+        ],
+        [
+            "89",
+            "Hat of anonymity",
+            "M109"
+        ],
+        [
+            "91",
+            "Ring of chameleon power",
+            "D230"
+        ],
+        [
+            "92",
+            "Shifter's sorrow",
+            "D228"
+        ],
+        [
+            "93",
+            "Cannith goggles",
+            "M84"
+        ],
+        [
+            "94",
+            "Cloak of soulbound resistance, greater",
+            "M88"
+        ],
+        [
+            "95",
+            "Fireflower pendant",
+            "M100"
+        ],
+        [
+            "96",
+            "Gem of brightness",
+            "D257"
+        ],
+        [
+            "97",
+            "Lyre of building",
+            "D261"
+        ],
+        [
+            "99",
+            "Monk's belt",
+            "D248"
+        ],
+        [
+            "100",
+            "Python rod",
+            "D236"
+        ]
+    ],
+    "14": [
+        [
+            "1",
+            "Kyton armor",
+            "M19"
+        ],
+        [
+            "2",
+            "Breastplate of terror [SP]",
+            "M192"
+        ],
+        [
+            "3",
+            "Memento magica, 3rd-level spell",
+            "M164"
+        ],
+        [
+            "4",
+            "Choker of life protection [SP]",
+            "M216"
+        ],
+        [
+            "5",
+            "Cloak of arachnida",
+            "D252"
+        ],
+        [
+            "6",
+            "Gloves of the titan's grip",
+            "M107"
+        ],
+        [
+            "7",
+            "Harrow rod",
+            "M162"
+        ],
+        [
+            "8",
+            "Metamagic rod, Chaining, lesser",
+            "M165"
+        ],
+        [
+            "9",
+            "Metamagic rod, Maximize, lesser",
+            "D236"
+        ],
+        [
+            "10",
+            "Runestaff of night",
+            "M181"
+        ],
+        [
+            "11",
+            "Tentacle rod",
+            "M61"
+        ],
+        [
+            "12",
+            "Veil of allure",
+            "M145"
+        ],
+        [
+            "13",
+            "Electric eel hide",
+            "M17"
+        ],
+        [
+            "14",
+            "Wight armor",
+            "M23"
+        ],
+        [
+            "15",
+            "Bearskin armor",
+            "M16"
+        ],
+        [
+            "16",
+            "Stone horse, destrier",
+            "D267"
+        ],
+        [
+            "17",
+            "Belt of dwarvenkind",
+            "D248"
+        ],
+        [
+            "18",
+            "Badge of the svirfneblin",
+            "M72"
+        ],
+        [
+            "19",
+            "Banner of the storm's eye",
+            "M151"
+        ],
+        [
+            "20",
+            "Blindhelm",
+            "M75"
+        ],
+        [
+            "21",
+            "Circlet of rapid casting",
+            "M86"
+        ],
+        [
+            "22",
+            "Desperation chain",
+            "M93"
+        ],
+        [
+            "23",
+            "Incarnum focus (DM's choice)",
+            "M112"
+        ],
+        [
+            "24",
+            "Moonstone mask",
+            "M118"
+        ],
+        [
+            "25",
+            "Periapt of wound closure",
+            "D264"
+        ],
+        [
+            "26",
+            "Psychoactive skin of nimbleness",
+            "M171"
+        ],
+        [
+            "27",
+            "Psychoactive skin of the chameleon",
+            "M170"
+        ],
+        [
+            "28",
+            "Quiver of energy",
+            "M172"
+        ],
+        [
+            "29",
+            "Ring of water walking",
+            "D233"
+        ],
+        [
+            "30",
+            "Rod of flame extinguishing",
+            "D235"
+        ],
+        [
+            "31",
+            "Rod of whips",
+            "M58"
+        ],
+        [
+            "32",
+            "Runestaff of opening",
+            "M181"
+        ],
+        [
+            "33",
+            "Shirt of angels",
+            "M134"
+        ],
+        [
+            "34",
+            "Shirt of demonskin",
+            "M134"
+        ],
+        [
+            "35",
+            "Shirt of the fey",
+            "M134"
+        ],
+        [
+            "36",
+            "Shirt of the inevitable",
+            "M134"
+        ],
+        [
+            "37",
+            "Shirt of ironskin",
+            "M135"
+        ],
+        [
+            "38",
+            "Shirt of slaadskin",
+            "M135"
+        ],
+        [
+            "39",
+            "Shirt of the moon",
+            "M135"
+        ],
+        [
+            "40",
+            "Spider rod",
+            "M186"
+        ],
+        [
+            "41",
+            "Third eye repudiate",
+            "M142"
+        ],
+        [
+            "42",
+            "Horn of the tritons",
+            "D260"
+        ],
+        [
+            "43",
+            "Pearl of the sirines",
+            "D263"
+        ],
+        [
+            "44",
+            "Figurine of wondrous power, onyx dog",
+            "D256"
+        ],
+        [
+            "45",
+            "Amulet of catapsi",
+            "M68"
+        ],
+        [
+            "46",
+            "Amulet of health +4",
+            "D246"
+        ],
+        [
+            "47",
+            "Belt of giant strength +4",
+            "D248"
+        ],
+        [
+            "48",
+            "Bracers of armor +4",
+            "D250"
+        ],
+        [
+            "49",
+            "Cloak of Charisma +4",
+            "D253"
+        ],
+        [
+            "50",
+            "Cloak of resistance +4",
+            "D253"
+        ],
+        [
+            "51",
+            "Cognizance crystal, 7 points",
+            "M154"
+        ],
+        [
+            "52",
+            "Gloves of Dexterity +4",
+            "D257"
+        ],
+        [
+            "53",
+            "Goggles of draconic vision",
+            "M107"
+        ],
+        [
+            "54",
+            "Headband of intellect +4",
+            "D258"
+        ],
+        [
+            "55",
+            "Pearl of power, 4th-level spell",
+            "D263"
+        ],
+        [
+            "56",
+            "Periapt of Wisdom +4",
+            "D263"
+        ],
+        [
+            "57",
+            "Ring of dragon friendship",
+            "M122"
+        ],
+        [
+            "58",
+            "Ring of greater counterspells",
+            "M124"
+        ],
+        [
+            "59",
+            "Runestaff of the undying",
+            "M182"
+        ],
+        [
+            "60",
+            "Runestaff of vision",
+            "M182"
+        ],
+        [
+            "61",
+            "Scabbard of keen edges",
+            "D266"
+        ],
+        [
+            "62",
+            "Serpent veil [SP]",
+            "M212"
+        ],
+        [
+            "63",
+            "Shadow veil",
+            "M133"
+        ],
+        [
+            "64",
+            "Vest of resistance +4",
+            "M147"
+        ],
+        [
+            "65",
+            "War wizard cloak",
+            "M147"
+        ],
+        [
+            "66",
+            "Winged boots",
+            "D250"
+        ],
+        [
+            "70",
+            "+4 armor/shield",
+            "M282"
+        ],
+        [
+            "71",
+            "Zombie hide armor",
+            "M24"
+        ],
+        [
+            "72",
+            "Figurine of wondrous power, golden lions",
+            "D256"
+        ],
+        [
+            "73",
+            "Dwarven plate",
+            "D220"
+        ],
+        [
+            "74",
+            "Staff of charming",
+            "D244"
+        ],
+        [
+            "75",
+            "Chime of interruption",
+            "D252"
+        ],
+        [
+            "76",
+            "Armor of the fallen leaves [R]",
+            "M16"
+        ],
+        [
+            "77",
+            "Broom of flying",
+            "D250"
+        ],
+        [
+            "78",
+            "Figurine of wondrous power, marble elephant",
+            "D256"
+        ],
+        [
+            "79",
+            "Tigerskin armor",
+            "M22"
+        ],
+        [
+            "80",
+            "Winged shield",
+            "D221"
+        ],
+        [
+            "81",
+            "Amulet of natural armor +3",
+            "D246"
+        ],
+        [
+            "82",
+            "Chasuble of fell power, greater",
+            "M85"
+        ],
+        [
+            "83",
+            "Dragondoom scepter",
+            "M157"
+        ],
+        [
+            "84",
+            "Goggles of the ebon hunter",
+            "M108"
+        ],
+        [
+            "85",
+            "loun stone, iridescent spindle",
+            "D260"
+        ],
+        [
+            "86",
+            "Ring of divergence",
+            "M122"
+        ],
+        [
+            "87",
+            "Ring of the icy soul",
+            "M124"
+        ],
+        [
+            "88",
+            "Ring of protection +3",
+            "D232"
+        ],
+        [
+            "89",
+            "Ring of spell storing, minor",
+            "D233"
+        ],
+        [
+            "90",
+            "Rogue's vest",
+            "M130"
+        ],
+        [
+            "91",
+            "Runestaff of forced happiness",
+            "M180"
+        ],
+        [
+            "92",
+            "Surge crystal",
+            "M139"
+        ],
+        [
+            "100",
+            "+3 weapon",
+            "M282"
+        ]
+    ],
+    "15": [
+        [
+            "1",
+            "Assassin's dagger",
+            "D226"
+        ],
+        [
+            "2",
+            "Cli lyre",
+            "M154"
+        ],
+        [
+            "3",
+            "Dragonrider armor",
+            "M17"
+        ],
+        [
+            "4",
+            "Rod of enervating strike",
+            "M57"
+        ],
+        [
+            "5",
+            "Rod of freedom",
+            "M57"
+        ],
+        [
+            "6",
+            "Trident of fish command",
+            "D229"
+        ],
+        [
+            "7",
+            "Banded mail of luck",
+            "D220"
+        ],
+        [
+            "8",
+            "Bracelet of friends",
+            "D250"
+        ],
+        [
+            "9",
+            "Runestaff of illusion",
+            "M180"
+        ],
+        [
+            "10",
+            "Runestaff of transportation",
+            "M182"
+        ],
+        [
+            "11",
+            "Viper rod",
+            "D237"
+        ],
+        [
+            "12",
+            "Beholder crown",
+            "M73"
+        ],
+        [
+            "13",
+            "Bone ring",
+            "M75"
+        ],
+        [
+            "15",
+            "Carpet of flying, 5 ft. by 5 ft.",
+            "D252"
+        ],
+        [
+            "17",
+            "Casting glove",
+            "M84"
+        ],
+        [
+            "18",
+            "Crystal mask of insight",
+            "M91"
+        ],
+        [
+            "19",
+            "Eyes of power leech, vampiric",
+            "M98"
+        ],
+        [
+            "20",
+            "Horn of blasting",
+            "D259"
+        ],
+        [
+            "22",
+            "Ioun stone, pale lavender ellipsoid",
+            "D260"
+        ],
+        [
+            "24",
+            "Ioun stone, pearly white spindle",
+            "D260"
+        ],
+        [
+            "25",
+            "Lens of the desert",
+            "M163"
+        ],
+        [
+            "27",
+            "Portable hole",
+            "D264"
+        ],
+        [
+            "28",
+            "Ring of arcane might",
+            "M121"
+        ],
+        [
+            "29",
+            "Ring of invisibility",
+            "D232"
+        ],
+        [
+            "30",
+            "Ring of wizardry I",
+            "D233"
+        ],
+        [
+            "31",
+            "Runestaff of frost",
+            "M180"
+        ],
+        [
+            "32",
+            "Scarab of stabilization",
+            "M132"
+        ],
+        [
+            "33",
+            "Stone of good luck",
+            "D267"
+        ],
+        [
+            "34",
+            "Water whip",
+            "M63"
+        ],
+        [
+            "35",
+            "Dagger of denial [R]",
+            "M50"
+        ],
+        [
+            "36",
+            "Ruby blade [R]",
+            "M58"
+        ],
+        [
+            "37",
+            "Cudgel that never forgets [R]",
+            "M49"
+        ],
+        [
+            "38",
+            "Chain of obeisance [R]",
+            "M48"
+        ],
+        [
+            "39",
+            "Flame tongue",
+            "D226"
+        ],
+        [
+            "40",
+            "Figurine of wondrous power, ivory goats",
+            "D256"
+        ],
+        [
+            "41",
+            "Gwaeron's belt",
+            "M109"
+        ],
+        [
+            "42",
+            "Robe of arcane might",
+            "M129"
+        ],
+        [
+            "43",
+            "Rope of entanglement",
+            "D266"
+        ],
+        [
+            "44",
+            "Runestaff of divination",
+            "M177"
+        ],
+        [
+            "45",
+            "Exoskeleton armor",
+            "M18"
+        ],
+        [
+            "46",
+            "Boots of the mountain king, greater",
+            "M78"
+        ],
+        [
+            "47",
+            "Cloak of battle",
+            "M87"
+        ],
+        [
+            "48",
+            "Golem manual, stone",
+            "D258"
+        ],
+        [
+            "49",
+            "Mask of the skull",
+            "D262"
+        ],
+        [
+            "50",
+            "Turquoise veil [SP]",
+            "M212"
+        ],
+        [
+            "51",
+            "Luck blade (0 wishes)",
+            "D227"
+        ],
+        [
+            "52",
+            "Lash of sands",
+            "M53"
+        ],
+        [
+            "53",
+            "Sword of subtlety",
+            "D228"
+        ],
+        [
+            "54",
+            "Sword of the planes",
+            "D228"
+        ],
+        [
+            "55",
+            "Celestial armor",
+            "D220"
+        ],
+        [
+            "56",
+            "Runestaff of the artisan",
+            "M176"
+        ],
+        [
+            "57",
+            "Nine lives stealer",
+            "D227"
+        ],
+        [
+            "58",
+            "Mattock of the titans",
+            "D262"
+        ],
+        [
+            "59",
+            "Rod of enemy detection",
+            "D235"
+        ],
+        [
+            "60",
+            "Circlet of blasting, major",
+            "D252"
+        ],
+        [
+            "61",
+            "Amulet of mighty fists +2",
+            "D246"
+        ],
+        [
+            "62",
+            "Cloak of displacement, minor",
+            "D253"
+        ],
+        [
+            "63",
+            "Helm of underwater action",
+            "D259"
+        ],
+        [
+            "64",
+            "Memento magica, 4th-level spell",
+            "M164"
+        ],
+        [
+            "65",
+            "Mind blade gauntlet",
+            "M117"
+        ],
+        [
+            "66",
+            "Psychoactive skin of celestial embrace",
+            "M170"
+        ],
+        [
+            "67",
+            "Psychoactive skin of fiendish embrace",
+            "M170"
+        ],
+        [
+            "68",
+            "Runestaff of earth and stone",
+            "M178"
+        ],
+        [
+            "69",
+            "Shroud of scales",
+            "M136"
+        ],
+        [
+            "70",
+            "Third eye sense",
+            "M142"
+        ],
+        [
+            "71",
+            "Overhead shield",
+            "M20"
+        ],
+        [
+            "72",
+            "Metamagic rod, Substitution, greater",
+            "M165"
+        ],
+        [
+            "73",
+            "Metamagic rod, Enlarge, greater",
+            "D236"
+        ],
+        [
+            "74",
+            "Metamagic rod, Extend, greater",
+            "D236"
+        ],
+        [
+            "75",
+            "Metamagic rod, Sculpting, greater",
+            "M165"
+        ],
+        [
+            "76",
+            "Metamagic rod, Silent, greater",
+            "D236"
+        ],
+        [
+            "77",
+            "Quarterstaff of battle",
+            "M54"
+        ],
+        [
+            "78",
+            "Plate armor of the deep",
+            "D220"
+        ],
+        [
+            "79",
+            "Staff of swarming insects",
+            "D245"
+        ],
+        [
+            "80",
+            "Bracers of archery, greater",
+            "D250"
+        ],
+        [
+            "81",
+            "Bracers of armor +5",
+            "D250"
+        ],
+        [
+            "83",
+            "Cloak of resistance +5",
+            "D253"
+        ],
+        [
+            "84",
+            "Cognizance crystal, 9 points",
+            "M154"
+        ],
+        [
+            "85",
+            "Eyes of doom",
+            "D256"
+        ],
+        [
+            "86",
+            "Magic siphon",
+            "M164"
+        ],
+        [
+            "87",
+            "Pearl of power, 5th-level spell",
+            "D263"
+        ],
+        [
+            "88",
+            "Ring of evasion",
+            "D232"
+        ],
+        [
+            "89",
+            "Ring of master artifice",
+            "M125"
+        ],
+        [
+            "90",
+            "Ring of X-ray vision",
+            "D233"
+        ],
+        [
+            "91",
+            "Rod of splendor",
+            "D236"
+        ],
+        [
+            "92",
+            "Rod of withering",
+            "D237"
+        ],
+        [
+            "93",
+            "Runestaff of conjuration",
+            "M177"
+        ],
+        [
+            "94",
+            "Runestaff of evocation",
+            "M178"
+        ],
+        [
+            "95",
+            "Runestaff of transmutation",
+            "M182"
+        ],
+        [
+            "96",
+            "Vest of resistance +5",
+            "M147"
+        ],
+        [
+            "100",
+            "+5 armor/shield",
+            "M282"
+        ]
+    ],
+    "16": [
+        [
+            "1",
+            "Maul of the titans",
+            "D262"
+        ],
+        [
+            "2",
+            "Breastplate of command",
+            "D220"
+        ],
+        [
+            "3",
+            "Oathbow",
+            "D227"
+        ],
+        [
+            "4",
+            "Sword of life stealing",
+            "D228"
+        ],
+        [
+            "5",
+            "Bracers of dawn",
+            "M80"
+        ],
+        [
+            "6",
+            "Cloak of the bat",
+            "D252"
+        ],
+        [
+            "7",
+            "Cloak of thorns",
+            "M88"
+        ],
+        [
+            "8",
+            "Iron bands of Bilarro",
+            "D261"
+        ],
+        [
+            "9",
+            "Ring of soulbound protection, greater",
+            "M127"
+        ],
+        [
+            "10",
+            "Runestaff of cacophony",
+            "M177"
+        ],
+        [
+            "11",
+            "Scourge of pain",
+            "M59"
+        ],
+        [
+            "12",
+            "Mithral full plate of speed",
+            "D220"
+        ],
+        [
+            "13",
+            "Cube of frost resistance",
+            "D253"
+        ],
+        [
+            "14",
+            "Helm of telepathy",
+            "D259"
+        ],
+        [
+            "15",
+            "Periapt of proof against poison",
+            "D263"
+        ],
+        [
+            "16",
+            "Ring of blinking",
+            "D230"
+        ],
+        [
+            "17",
+            "Robe of scintillating colors",
+            "D265"
+        ],
+        [
+            "18",
+            "Runestaff of destruction",
+            "M177"
+        ],
+        [
+            "20",
+            "Manual of bodily health +1",
+            "D261"
+        ],
+        [
+            "22",
+            "Manual of gainful exercise +1",
+            "D262"
+        ],
+        [
+            "24",
+            "Manual of quickness in action +1",
+            "D262"
+        ],
+        [
+            "26",
+            "Tome of clear thought +1",
+            "D268"
+        ],
+        [
+            "28",
+            "Tome of leadership and influence +1",
+            "D268"
+        ],
+        [
+            "30",
+            "Tome of understanding +1",
+            "D268"
+        ],
+        [
+            "32",
+            "Staff of healing",
+            "D244"
+        ],
+        [
+            "33",
+            "Dimensional shackles",
+            "D255"
+        ],
+        [
+            "35",
+            "Ring of energy resistance, major",
+            "D232"
+        ],
+        [
+            "36",
+            "Figurine of wondrous power, obsidian steed",
+            "D256"
+        ],
+        [
+            "38",
+            "Staff of fire",
+            "D244"
+        ],
+        [
+            "45",
+            "Scroll of true resurrection (D)",
+            "P296"
+        ],
+        [
+            "46",
+            "Staff of size alteration",
+            "D245"
+        ],
+        [
+            "47",
+            "Drums of panic",
+            "D255"
+        ],
+        [
+            "49",
+            "Ioun stone, orange prism",
+            "D260"
+        ],
+        [
+            "51",
+            "Ioun stone, pale green prism",
+            "D260"
+        ],
+        [
+            "53",
+            "Lantern of revealing",
+            "D261"
+        ],
+        [
+            "54",
+            "Ring of vanishing",
+            "M128"
+        ],
+        [
+            "56",
+            "Rings of force armor (pair)",
+            "M128"
+        ],
+        [
+            "57",
+            "Robe of blending",
+            "D265"
+        ],
+        [
+            "58",
+            "Runestaff of the architect",
+            "M176"
+        ],
+        [
+            "59",
+            "Runestaff of ethereal action",
+            "M178"
+        ],
+        [
+            "62",
+            "Amulet of natural armor +4",
+            "D246"
+        ],
+        [
+            "63",
+            "Psychoactive skin of the defender",
+            "M170"
+        ],
+        [
+            "66",
+            "Ring of protection +4",
+            "D232"
+        ],
+        [
+            "67",
+            "Runestaff of abjuration",
+            "M176"
+        ],
+        [
+            "68",
+            "Runestaff of enchantment",
+            "M178"
+        ],
+        [
+            "69",
+            "Runestaff of necromancy",
+            "M180"
+        ],
+        [
+            "87",
+            "+4 weapon",
+            "M282"
+        ],
+        [
+            "88",
+            "Anstruth harp",
+            "M150"
+        ],
+        [
+            "89",
+            "Metamagic rod, Empower",
+            "D236"
+        ],
+        [
+            "90",
+            "Metamagic rod, Reach",
+            "M165"
+        ],
+        [
+            "91",
+            "Rod of thunder and lightning",
+            "D237"
+        ],
+        [
+            "92",
+            "Impervious vestment",
+            "M112"
+        ],
+        [
+            "93",
+            "Runestaff of illumination",
+            "M180"
+        ],
+        [
+            "94",
+            "Amulet of proof against detection and location",
+            "D247"
+        ],
+        [
+            "96",
+            "Carpet of flying, 5 ft. by 10 ft.",
+            "D252"
+        ],
+        [
+            "97",
+            "Golem manual, iron",
+            "D258"
+        ],
+        [
+            "98",
+            "Metamagic rod, Quicken, lesser",
+            "D236"
+        ],
+        [
+            "100",
+            "Runestaff of time",
+            "M182"
+        ]
+    ],
+    "17": [
+        [
+            "3",
+            "Amulet of health +6",
+            "D246"
+        ],
+        [
+            "6",
+            "Belt of giant strength +6",
+            "D248"
+        ],
+        [
+            "8",
+            "Bracers of armor +6",
+            "D250"
+        ],
+        [
+            "11",
+            "Cloak of Charisma +6",
+            "D253"
+        ],
+        [
+            "12",
+            "Cloak of the salamander, greater",
+            "M88"
+        ],
+        [
+            "13",
+            "Cognizance crystal, 11 points",
+            "M154"
+        ],
+        [
+            "16",
+            "Cloves of Dexterity +6",
+            "D257"
+        ],
+        [
+            "19",
+            "Headband of intellect +6",
+            "D258"
+        ],
+        [
+            "20",
+            "Ioun stone, vibrant purple prism",
+            "D260"
+        ],
+        [
+            "22",
+            "Pearl of power, 6th-level spell",
+            "D263"
+        ],
+        [
+            "25",
+            "Periapt of Wisdom +6",
+            "D263"
+        ],
+        [
+            "27",
+            "Ring of negative protection",
+            "M126"
+        ],
+        [
+            "29",
+            "Ring of positive protection",
+            "M126"
+        ],
+        [
+            "30",
+            "Truelight lantern",
+            "M190"
+        ],
+        [
+            "39",
+            "+6 armor/shield",
+            "M282"
+        ],
+        [
+            "40",
+            "Vampire hide armor",
+            "M23"
+        ],
+        [
+            "41",
+            "Robe of the inferno",
+            "M129"
+        ],
+        [
+            "43",
+            "Rod of negation",
+            "D236"
+        ],
+        [
+            "45",
+            "Runestaff of the undead slayer",
+            "M182"
+        ],
+        [
+            "47",
+            "Memento magica, 5th-level spell",
+            "M164"
+        ],
+        [
+            "49",
+            "Robe of thunder",
+            "M206"
+        ],
+        [
+            "51",
+            "SP Scarab of protection",
+            "D266"
+        ],
+        [
+            "52",
+            "Explosive sling",
+            "M51"
+        ],
+        [
+            "54",
+            "Runestaff of power",
+            "M181"
+        ],
+        [
+            "55",
+            "Mace of terror",
+            "D227"
+        ],
+        [
+            "57",
+            "Rod of celestial might",
+            "M56"
+        ],
+        [
+            "59",
+            "Amulet of second chances",
+            "M70"
+        ],
+        [
+            "62",
+            "Ioun stone, lavender and green ellipsoid",
+            "D260"
+        ],
+        [
+            "63",
+            "Psychoactive skin of iron",
+            "M171"
+        ],
+        [
+            "64",
+            "Psychoactive skin of the spider",
+            "M172"
+        ],
+        [
+            "65",
+            "Ring gates",
+            "D265"
+        ],
+        [
+            "71",
+            "Ring of freedom of movement",
+            "D232"
+        ],
+        [
+            "73",
+            "Ring of wizardry II",
+            "D233"
+        ],
+        [
+            "75",
+            "Scarab of invulnerability",
+            "M132"
+        ],
+        [
+            "76",
+            "Life-drinker",
+            "D227"
+        ],
+        [
+            "78",
+            "Earthplate armor",
+            "M17"
+        ],
+        [
+            "79",
+            "Crystal ball",
+            "D253"
+        ],
+        [
+            "80",
+            "Mind blade gauntlet, greater",
+            "M117"
+        ],
+        [
+            "82",
+            "Boots of temporal acceleration",
+            "M79"
+        ],
+        [
+            "83",
+            "Golem manual, greater stone",
+            "D258"
+        ],
+        [
+            "88",
+            "Ring of energy resistance, greater",
+            "D232"
+        ],
+        [
+            "90",
+            "Ring of nine lives",
+            "M126"
+        ],
+        [
+            "92",
+            "Strand of prayer beads",
+            "D267"
+        ],
+        [
+            "95",
+            "Runestaff of insanity",
+            "M180"
+        ],
+        [
+            "97",
+            "Sylvan scimitar",
+            "D229"
+        ],
+        [
+            "98",
+            "Orb of storms",
+            "D263"
+        ],
+        [
+            "99",
+            "Runestaff of fiendish darkness",
+            "M178"
+        ],
+        [
+            "100",
+            "Tentacle rod, greater",
+            "M62"
+        ]
+    ],
+    "18": [
+        [
+            "1",
+            "Staff of illumination",
+            "D244"
+        ],
+        [
+            "2",
+            "Boots of teleportation",
+            "D250"
+        ],
+        [
+            "5",
+            "Bracers of armor +7",
+            "D250"
+        ],
+        [
+            "6",
+            "Cognizance crystal, 13 points",
+            "M154"
+        ],
+        [
+            "7",
+            "Pearl of power, 7th-level spell",
+            "D263"
+        ],
+        [
+            "13",
+            "+7 armor/shield",
+            "M282"
+        ],
+        [
+            "14",
+            "Amulet of natural armor +5",
+            "D246"
+        ],
+        [
+            "15",
+            "Cloak of displacement, major",
+            "D253"
+        ],
+        [
+            "16",
+            "Cloudwalker anklets",
+            "M206"
+        ],
+        [
+            "17",
+            "SP Crystal ball with see invisibility",
+            "D253"
+        ],
+        [
+            "18",
+            "Horn of Valhalla",
+            "D260"
+        ],
+        [
+            "19",
+            "Phoenix cloak [SP]",
+            "M210"
+        ],
+        [
+            "20",
+            "Ring of friend shield (pair)",
+            "D232"
+        ],
+        [
+            "24",
+            "Ring of protection +5",
+            "D232"
+        ],
+        [
+            "25",
+            "Ring of shooting stars",
+            "D232"
+        ],
+        [
+            "26",
+            "Ring of spell storing",
+            "D233"
+        ],
+        [
+            "27",
+            "Rod of absorption",
+            "D234"
+        ],
+        [
+            "28",
+            "Rod of flailing",
+            "D235"
+        ],
+        [
+            "42",
+            "+5 weapon",
+            "M282"
+        ],
+        [
+            "43",
+            "Ollamh harp",
+            "M166"
+        ],
+        [
+            "44",
+            "Absorbing shield",
+            "D221"
+        ],
+        [
+            "45",
+            "Rapier of puncturing",
+            "D227"
+        ],
+        [
+            "46",
+            "Sun blade",
+            "D228"
+        ],
+        [
+            "47",
+            "Crystal ball with detect thoughts",
+            "D253"
+        ],
+        [
+            "48",
+            "Demon armor",
+            "D220"
+        ],
+        [
+            "49",
+            "Amulet of mighty fists +3",
+            "D246"
+        ],
+        [
+            "50",
+            "Memento magica, 6th-level spell",
+            "M164"
+        ],
+        [
+            "51",
+            "Metamagic rod, Chaining",
+            "M165"
+        ],
+        [
+            "53",
+            "Metamagic rod, Maximize",
+            "D236"
+        ],
+        [
+            "54",
+            "Wings of flying",
+            "D268"
+        ],
+        [
+            "55",
+            "Frost brand",
+            "D226"
+        ],
+        [
+            "56",
+            "Cloak of etherealness",
+            "D253"
+        ],
+        [
+            "57",
+            "Daern's instant fortress",
+            "D254"
+        ],
+        [
+            "58",
+            "Dragon's eye amulet",
+            "M95"
+        ],
+        [
+            "60",
+            "Manual of bodily health +2",
+            "D261"
+        ],
+        [
+            "62",
+            "Manual of gainful exercise +2",
+            "D262"
+        ],
+        [
+            "64",
+            "Manual of quickness in action +2",
+            "D262"
+        ],
+        [
+            "66",
+            "Tome of clear thought +2",
+            "D268"
+        ],
+        [
+            "68",
+            "Tome of leadership and influence +2",
+            "D268"
+        ],
+        [
+            "70",
+            "Tome of understanding +2",
+            "D268"
+        ],
+        [
+            "71",
+            "Eyes of charming",
+            "D256"
+        ],
+        [
+            "72",
+            "Staff of frost",
+            "D244"
+        ],
+        [
+            "73",
+            "Robe of stars",
+            "D265"
+        ],
+        [
+            "74",
+            "Staff of defense",
+            "D244"
+        ],
+        [
+            "76",
+            "Carpet of flying, 10 ft. by 10 ft.",
+            "D252"
+        ],
+        [
+            "77",
+            "Darkskull",
+            "D254"
+        ],
+        [
+            "78",
+            "Psychoactive skin of fiery response",
+            "M171"
+        ],
+        [
+            "81",
+            "Ring of universal energy resistance, minor",
+            "M128"
+        ],
+        [
+            "82",
+            "Rod of force",
+            "M173"
+        ],
+        [
+            "83",
+            "Rod of rulership",
+            "D236"
+        ],
+        [
+            "84",
+            "Dwarven thrower",
+            "D226"
+        ],
+        [
+            "85",
+            "Psychoactive skin of the troll",
+            "M172"
+        ],
+        [
+            "86",
+            "Ring of master artifice, greater",
+            "M125"
+        ],
+        [
+            "87",
+            "Rod of security",
+            "D236"
+        ],
+        [
+            "88",
+            "Cube of force",
+            "D253"
+        ],
+        [
+            "89",
+            "Luck blade (1 wish)",
+            "D227"
+        ],
+        [
+            "93",
+            "Bracers of armor +8",
+            "D250"
+        ],
+        [
+            "94",
+            "Cognizance crystal, 15 points",
+            "M154"
+        ],
+        [
+            "95",
+            "Pearl of power, 8th-level spell",
+            "D263"
+        ],
+        [
+            "100",
+            "+8 armor/shield",
+            "M282"
+        ]
+    ],
+    "19": [
+        [
+            "3",
+            "Staff of abjuration",
+            "D243"
+        ],
+        [
+            "6",
+            "Staff of conjuration",
+            "D244"
+        ],
+        [
+            "9",
+            "Staff of enchantment",
+            "D244"
+        ],
+        [
+            "12",
+            "Staff of evocation",
+            "D244"
+        ],
+        [
+            "15",
+            "Staff of illusion",
+            "D244"
+        ],
+        [
+            "18",
+            "Staff of necromancy",
+            "D244"
+        ],
+        [
+            "21",
+            "Staff of transmutation",
+            "D245"
+        ],
+        [
+            "23",
+            "Crystal ball with telepathy",
+            "D253"
+        ],
+        [
+            "25",
+            "Horn of blasting, greater",
+            "D259"
+        ],
+        [
+            "28",
+            "Pearl of power, two spells",
+            "D263"
+        ],
+        [
+            "32",
+            "Ring of wizardry III",
+            "D233"
+        ],
+        [
+            "36",
+            "Rod of lordly might",
+            "D235"
+        ],
+        [
+            "52",
+            "+6 weapon",
+            "M282"
+        ],
+        [
+            "56",
+            "Metamagic rod, Empower, greater",
+            "D236"
+        ],
+        [
+            "60",
+            "Metamagic rod, Reach, greater",
+            "M165"
+        ],
+        [
+            "62",
+            "Helm of teleportation",
+            "D259"
+        ],
+        [
+            "66",
+            "Memento magica, 7th-level spell",
+            "M164"
+        ],
+        [
+            "70",
+            "Staff of divination",
+            "D244"
+        ],
+        [
+            "73",
+            "Gem of seeing",
+            "D257"
+        ],
+        [
+            "77",
+            "Ring of telekinesis",
+            "D233"
+        ],
+        [
+            "81",
+            "Robe of the archmagi",
+            "D265"
+        ],
+        [
+            "85",
+            "Runestaff of passage",
+            "M181"
+        ],
+        [
+            "87",
+            "Mace of smiting",
+            "D227"
+        ],
+        [
+            "91",
+            "Metamagic rod, Quicken",
+            "D236"
+        ],
+        [
+            "94",
+            "Mantle of faith",
+            "D261"
+        ],
+        [
+            "96",
+            "Psychoactive skin of the hero",
+            "M171"
+        ],
+        [
+            "100",
+            "Crystal ball with true seeing",
+            "D253"
+        ]
+    ],
+    "20": [
+        [
+            "3",
+            "Staff of earth and stone",
+            "D244"
+        ],
+        [
+            "5",
+            "Cognizance crystal, 17 points",
+            "M154"
+        ],
+        [
+            "8",
+            "Pearl of power, 9th-level spell",
+            "D263"
+        ],
+        [
+            "14",
+            "+9 armor/shield",
+            "M282"
+        ],
+        [
+            "15",
+            "Well of many worlds",
+            "D268"
+        ],
+        [
+            "19",
+            "Manual of bodily health +3",
+            "D261"
+        ],
+        [
+            "23",
+            "Manual of gainful exercise +3",
+            "D262"
+        ],
+        [
+            "27",
+            "Manual of quickness in action +3",
+            "D262"
+        ],
+        [
+            "31",
+            "Tome of clear thought +3",
+            "D268"
+        ],
+        [
+            "35",
+            "Tome of leadership and influence +3",
+            "D268"
+        ],
+        [
+            "39",
+            "Tome of understanding +3",
+            "D268"
+        ],
+        [
+            "42",
+            "Rod of alertness",
+            "D234"
+        ],
+        [
+            "43",
+            "Apparatus of Kwalish",
+            "D247"
+        ],
+        [
+            "47",
+            "Mantle of spell resistance",
+            "D261"
+        ],
+        [
+            "49",
+            "Psychoactive skin of the psion",
+            "M172"
+        ],
+        [
+            "53",
+            "Ring of regeneration",
+            "D232"
+        ],
+        [
+            "55",
+            "Mirror of opposition",
+            "D262"
+        ],
+        [
+            "57",
+            "Strand of prayer beads, greater",
+            "D267"
+        ],
+        [
+            "59",
+            "Amulet of mighty fists +4",
+            "D246"
+        ],
+        [
+            "61",
+            "Memento magica, 8th-level spell",
+            "M164"
+        ],
+        [
+            "65",
+            "Ring of three wishes",
+            "D233"
+        ],
+        [
+            "67",
+            "Eyes of petrification",
+            "D256"
+        ],
+        [
+            "82",
+            "+7 weapon",
+            "M282"
+        ],
+        [
+            "84",
+            "Ring of spell turning",
+            "D233"
+        ],
+        [
+            "86",
+            "Bowl of commanding water elementals",
+            "D250"
+        ],
+        [
+            "88",
+            "Brazier of commanding fire elementals",
+            "D250"
+        ],
+        [
+            "90",
+            "Censer of controlling air elementals",
+            "D252"
+        ],
+        [
+            "92",
+            "Ring of wizardry IV",
+            "D233"
+        ],
+        [
+            "94",
+            "Stone of controlling earth elementals",
+            "D267"
+        ],
+        [
+            "100",
+            "+10 armor/shield",
+            "M282"
+        ]
+    ],
+    "21": [
+        [
+            "6",
+            "Staff of the woodlands",
+            "D245"
+        ],
+        [
+            "14",
+            "Luck blade (2 wishes)",
+            "D227"
+        ],
+        [
+            "23",
+            "Manual of bodily health +4",
+            "D261"
+        ],
+        [
+            "32",
+            "Manual of gainful exercise +4",
+            "D262"
+        ],
+        [
+            "41",
+            "Manual of quickness in action +4",
+            "D262"
+        ],
+        [
+            "50",
+            "Tome of clear thought +4",
+            "D268"
+        ],
+        [
+            "59",
+            "Tome of leadership and influence +4",
+            "D268"
+        ],
+        [
+            "68",
+            "Tome of understanding +4",
+            "D268"
+        ],
+        [
+            "74",
+            "Amulet of the planes",
+            "D247"
+        ],
+        [
+            "83",
+            "Ring of universal energy resistance, major",
+            "M128"
+        ],
+        [
+            "90",
+            "Robe of eyes",
+            "D265"
+        ],
+        [
+            "95",
+            "Third eye conceal",
+            "M141"
+        ],
+        [
+            "100",
+            "Third eye dominate",
+            "M141"
+        ]
+    ],
+    "22": [
+        [
+            "10",
+            "Holy avenger",
+            "D226"
+        ],
+        [
+            "15",
+            "Memento magica, 9th-level spell",
+            "M164"
+        ],
+        [
+            "20",
+            "Metamagic rod, Chaining, greater",
+            "M165"
+        ],
+        [
+            "25",
+            "Metamagic rod, Maximize, greater",
+            "D236"
+        ],
+        [
+            "29",
+            "Helm of brilliance",
+            "D258"
+        ],
+        [
+            "33",
+            "Ring of djinni calling",
+            "D230"
+        ],
+        [
+            "58",
+            "+8 weapon",
+            "M282"
+        ],
+        [
+            "65",
+            "Manual of bodily health +5",
+            "D261"
+        ],
+        [
+            "72",
+            "Manual of gainful exercise +5",
+            "D262"
+        ],
+        [
+            "79",
+            "Manual of quickness in action +5",
+            "D262"
+        ],
+        [
+            "86",
+            "Tome of clear thought +5",
+            "D268"
+        ],
+        [
+            "93",
+            "Tome of leadership and influence +5",
+            "D268"
+        ],
+        [
+            "100",
+            "Tome of understanding +5",
+            "D268"
+        ]
+    ],
+    "23": [
+        [
+            "25",
+            "Luck blade (3 wishes)",
+            "D227"
+        ],
+        [
+            "43",
+            "Efreeti bottle",
+            "D255"
+        ],
+        [
+            "63",
+            "Amulet of mighty fists +5",
+            "D246"
+        ],
+        [
+            "83",
+            "Staff of life",
+            "D244"
+        ],
+        [
+            "100",
+            "Chaos diamond",
+            "D252"
+        ]
+    ],
+    "24": [
+        [
+            "30",
+            "+9 weapon",
+            "M282"
+        ],
+        [
+            "40",
+            "Cubic gate",
+            "D254"
+        ],
+        [
+            "51",
+            "Iron flask",
+            "D261"
+        ],
+        [
+            "61",
+            "Metamagic rod, Quicken, greater",
+            "D236"
+        ],
+        [
+            "73",
+            "Staff of passage",
+            "D245"
+        ],
+        [
+            "81",
+            "Mirror of mental prowess",
+            "D262"
+        ],
+        [
+            "100",
+            "Ring of universal energy resistance, greater",
+            "M128"
+        ]
+    ],
+    "25": [
+        [
+            "8",
+            "Mirror of life trapping",
+            "D262"
+        ],
+        [
+            "16",
+            "Ring of elemental command (air)",
+            "D231"
+        ],
+        [
+            "24",
+            "Ring of elemental command (earth)",
+            "D231"
+        ],
+        [
+            "32",
+            "Ring of elemental command (fire)",
+            "D231"
+        ],
+        [
+            "40",
+            "Ring of elemental command (water)",
+            "D231"
+        ],
+        [
+            "50",
+            "Ring of spell storing, major",
+            "D233"
+        ],
+        [
+            "58",
+            "Vest of the archmagi",
+            "M145"
+        ],
+        [
+            "88",
+            "+10 weapon",
+            "M282"
+        ],
+        [
+            "100",
+            "Staff of power",
+            "D245"
+        ]
+    ]
+}
